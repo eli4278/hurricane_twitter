@@ -1,0 +1,368 @@
+Procedure:
+1. Find tweets from storm_ida that contain the words "hospital" and at least one of ['shut', 'down', 'capacity', 'full', 'limit', 'out']
+2. Remove URLs and duplicate tweets, calculate sentiment scores for each tweet.
+3. Look at tweets that have a negative compound score.
+4. Further questions: Which types of accounts are sending this information?
+
+Time: 2021-08-27 11:14:39+00:00
+And hospitals are full…
+Tropical Storm Ida Is Threatening Louisiana's Coastline This Weekend
+Score: -0.5267
+
+Time: 2021-08-27 16:24:41+00:00
+No one seems to yet be making the connection that as Ida is set to hit Sunday potentially as a category 4 storm, hospitals in the gulf coast are all already at capacity with COVID patients. 😬
+Score: -0.5574
+
+Time: 2021-08-27 17:58:31+00:00
+Evacuations Underway in Louisiana Ahead of Ida . I Wonder how many will disregard this mandatory evacuation and put themselves in harms way, then expect the government to save them. Adding to the already at capacity issues of the strained LA hospital syste
+Score: -0.5307
+
+Time: 2021-08-27 18:09:21+00:00
+Well this is going to be ugly, especially with hospitals in Ida’s path full of unvaccinated Covid patients. - Ida a Major Gulf Hurricane Threat
+Score: -0.7063
+
+Time: 2021-08-27 21:36:14+00:00
+As their hospital systems are collapsing they're about to be hurt with a category three hurricane Thank you freeloader anti-vaxxers
+Tropical Storm Ida Could Hit Gulf Coast as Category 3 Hurricane  via @democracynow
+Score: -0.5859
+
+Time: 2021-08-27 23:41:06+00:00
+@thespybrief 😢
+“Dr. Jennifer Avegno said that no local hospitals are planning to evacuate patients to facilities further away from the storm, as most hospitals near New Orleans are at or near capacity due to COVID-19.“
+Score: -0.6486
+
+Time: 2021-08-28 02:38:01+00:00
+Tropical storm baring down on a city where hospitals are full and evacuation is impossible. Many residents lack basic standards of living, have no way to prepare safely.
+
+Ida could have a Katrina style death toll, even if she's a much smaller storm.
+Score: -0.6369
+
+Time: 2021-08-28 06:36:08+00:00
+More than half of Gulf of Mexico #Oil production has been shut ahead of Hurricane Ida people are being evacuated from area hospitals. On its current track, the storm could cause as much as $25 billion in damage and losses, according to Enki Research.
+Score: -0.7096
+
+Time: 2021-08-28 12:16:09+00:00
+@MCTW5 @JonLemire the concern is they couldn’t relocate ppl to neighboring states and if Ida hits as hard as predicted they will have no room for ppl injured in the storm &amp; the hospitals also face the possibility of losing power, remember ppl died in hospitals during Katrina bec of power outages
+Score: -0.8885
+
+Time: 2021-08-28 13:54:32+00:00
+Hurricane #Ida is dangerous, strong and will cause mass damage to NOLA, parts of Mississippi and Alabama. The path of this storm scares me tremendously because hospitals in these areas are already full and there are far too many people w/o funds or transportation to evacuate
+Score: -0.6597
+
+Time: 2021-08-28 17:49:22+00:00
+Ida will be a Category 4 storm when it makes landfall. For reference, similar to Katrina. It will hit Louisiana, Alabama, and Mississippi. Louisiana COVID hospitalizations are high. New Orleans has limited hospital capacity. Alabama has no capacity. Mississippi has no capacity.
+Score: -0.6486
+
+Time: 2021-08-28 19:14:47+00:00
+@TexHellCat This is exactly what has had me increasingly alarmed for the last day or so.
+
+Theres no place for these people to go, yet with 100+ mph winds &amp; storm surge of 10-15 ft, even w/emergency generators any hospitals in Ida's path must be evacuated.
+
+But to where? The beds are full.
+Score: -0.3182
+
+Time: 2021-08-28 20:41:11+00:00
+@maskmyhood Thinking of ppl told to #ida evacuate but who have loved ones in #icu &amp; dont want to leave them (to die from #hurricaneida impact-do they try/fail go get ppl out of Covid wards? &amp; also #healthcareworkers in said hospitals-if they stay, they know they’ll surely die too from storm?
+Score: -0.4536
+
+Time: 2021-08-28 21:13:12+00:00
+@donwinslow @RELEVANT The National Weather Service is predicting that storm surge could make the landfall area "uninhabitable for weeks". Current hospital patients cannot be evacuated because so many surrounding states also have low vax rates and their ICU beds are full.
+
+
+Score: -0.2732
+
+Time: 2021-08-28 22:07:07+00:00
+They need to focus more on this.
+With Ida coming &amp; New Orleans hospitals full &amp; unable to evacuate anyone hurt during storm is schitt out of luck.
+Score: -0.1027
+
+Time: 2021-08-29 01:42:49+00:00
+Hurricane Ida, which could leave affected areas uninhabitable for ‘weeks or months’ is bearing down on Louisiana in the midst of a pandemic that has hospitals filled to capacity. Guess what’s going to happen when public storm shelters start filling up. Unimaginable tragedy.
+Score: -0.7351
+
+Time: 2021-08-29 02:53:57+00:00
+@LiberalHDWoman @KierstenWarren @be_rated @stateofcaite_2 The Ida aftermath, with already full hospitals and the overwhelming influx of life threatening storm injuries, will be excruciating to watch. 💔
+Score: -0.765
+
+Time: 2021-08-29 03:20:54+00:00
+New reporting from @shiramstein: Some hard-hit hospitals in the South only have 12-24 hours' worth of oxygen left. With Hurricane Ida hours away from hitting land, supply chain disruptions could have catastrophic ramifications.
+
+Score: -0.5719
+
+Time: 2021-08-29 04:09:11+00:00
+I am scared and worried for the coast.
+
+There will likely be storm deaths as we typically expect, but if those hospitalized with Covid are in an area that could be uninhabitable for weeks or months and without power…WOW.
+
+#Ida #covid19 #HurricaneIda
+Score: -0.3716
+
+Time: 2021-08-29 06:07:36+00:00
+"Ida is coming to shore is not just among the areas with the highest rates of COVID-19 per capita, but one where hospitals — and particularly children’s hospitals — are full of critical patients."
+Score: -0.4497
+
+Time: 2021-08-29 08:34:32+00:00
+Please remember that hospital workers in the path of Ida couldn't evacuate.  They had to go into work - into a hospital full of covid patients.
+
+Where are the hospitals going to put all the injured people after the storm is over?
+Score: -0.1027
+
+Time: 2021-08-29 08:57:57+00:00
+@being_steve @MiddleMolly @fred_guttenberg @POTUS @JoeBiden You obviously aren't waiting for Ida to devastate your state/community. I've been watching the news all day. They've covered the storm, Afghanistan &amp; covid. What more could you ask of them today? That includes bunny trails of Ivermectin. Many hospitals at capacity.
+Score: -0.6249
+
+Time: 2021-08-29 12:04:45+00:00
+@GL650_LynneG Heard on CNN this morning that with Storm Ida hitting the southern US there are potential problems because there are too many seriously ill patients in hospital to evacuate.
+Score: -0.7351
+
+Time: 2021-08-29 12:46:43+00:00
+Man “New Orleans hospitals planned to ride out the storm with their beds nearly full [of Covid patients], as similarly stressed hospitals elsewhere had little room for evacuated patients.“
+Score: -0.34
+
+Time: 2021-08-29 13:23:13+00:00
+#HurricaneIda, meet #Covid19 pandemic in vulnerable, low lying, low vaxxed rate  New Orleans and Louisiana with hospitals near max capacity.  🙏🙏🙏🤞🤞🤞maybe ‘perfect’, 💯horrible storm? 4 Reasons Hurricane Ida Feels Like A ‘Worst-Case Scenario’
+Score: -0.7184
+
+Time: 2021-08-29 13:39:17+00:00
+This is a goddamn monster of a storm. Regardless of it becoming Cat 5 or not, New Orleans and much of the rest of Louisiana is about to experience something awful, and we were already experiencing Delta-packed hospitals. Thinking of all who couldn't evac who remain in Ida's path.
+Score: -0.7269
+
+Time: 2021-08-29 13:42:23+00:00
+Hurricane IDA looking scary as it approaches Louisiana. It’s a category 4 now. This storm will be catastrophic. My thoughts are with the thousands of hospital patients who couldn’t evacuate to out of state hospitals bc they’re overwhelmed with COVID. 😞💕
+
+Score: -0.6124
+
+Time: 2021-08-29 14:04:12+00:00
+Hurricane #Ida looks ferocious.
+
+Pressure is down to 935 hPa  ... only Katrina made landfall in Louisiana with a lower hPA.  Nine foot storm surge already reported. And Louisiana already taking a hit from COVID hospitalizations.
+
+Nature is brutal...
+Score: -0.836
+
+Time: 2021-08-29 14:50:34+00:00
+Massive hurricane + dangerous storm surge + hospitals already full of COVID patients...this is a nightmare scenario... #ida
+Score: -0.4767
+
+Time: 2021-08-29 15:43:51+00:00
+LA Gov said that pts in coastal hospitals could not be evacuated to inland ones because the state’s hospitals were stretched to capacity amid LAs surge of Covid-19 infections.
+Hurricane Ida Could Hit as an ‘Extremely Dangerous Major’ Storm, Officials Warn
+Score: -0.5423
+
+Time: 2021-08-29 16:48:53+00:00
+I just had a thought.
+
+So all or most of those people in the ICU with COVID in Louisiana that’s in the eye of the storm are probably gonna die if the storm knocks the power out in the hospital.
+
+Would they be included in the death toll of Hurricane Ida or from COVID-19?
+Score: -0.8316
+
+Time: 2021-08-29 17:19:32+00:00
+How many are going to die when hurricane Ida knocks out power to hospitals and unvaccinated Covid patients don't have respirators.
+
+How many will have no hospital beds to go to after the storm.
+
+What have you done to yourselves and those around you.
+Score: -0.7269
+
+Time: 2021-08-29 17:59:44+00:00
+Scary point from Louisiana governor on covid patients:
+
+“Evacuating these large hospitals is not an option because there are not any other hospitals with the capacity to take them”
+
+
+Score: -0.4939
+
+Time: 2021-08-29 19:38:36+00:00
+Now
+compounded
+in grief to come,
+COVID-19 STILL EXISTS and crushes medical workers,
+Ida the NO hurricane of Pandemania!
+
+Nation needs to double down on vaccine admin!
+
+REASON must be employed when handling this wind storm damage, COVID REMAINS KILLER and hospitals are CRUSHED!!
+Score: -0.9718
+
+Time: 2021-08-29 21:45:05+00:00
+New Orleans hospitals planned to ride out the storm with their beds nearly full, as similarly stressed hospitals elsewhere had little room for evacuated patients.
+Score: -0.34
+
+Time: 2021-08-30 00:25:45+00:00
+Hurricane Ida's 120mph winds and 'catastrophic' storm surge tear roofs off buildings, make the Mississippi River flow backwards and leave 500K without power including hospital.
+Score: -0.5267
+
+Time: 2021-08-30 00:57:57+00:00
+Hurricane Ida's 120mph winds and 'catastrophic' storm surge tear roofs off buildings,Mississippi River flow backwards and leave 750k without power including hospital where staff are now ventilating patients by HAND
+
+Terrifying Hurricane Ida tears roof off hospital in Louisiana
+Score: -0.6208
+
+Time: 2021-08-30 01:06:00+00:00
+Hurricane Ida made landfall Sunday in southern Louisiana as a ferocious Category 4 storm, tearing roofs from a hospital and homes, flooding roads and sending ferries adrift.
+Score: -0.1027
+
+Time: 2021-08-30 01:41:28+00:00
+Hurricane Ida's 120mph winds and 'catastrophic' storm surge tear roofs off buildings, make the Mississippi River flow backwards and leave 750K without power including ALL of New Orleans and hospitals...
+via
+Score: -0.5267
+
+Time: 2021-08-30 01:59:48+00:00
+Packed with Covid-19 patients, many hospitals in southern Louisiana now reliant on backup generators b/c of storm-related power outages.
+
+"I hate to say it this way, but we have a lot of people on ventilators today and they don’t work without electricity."
+Score: -0.2732
+
+Time: 2021-08-30 02:23:29+00:00
+Hurricane Ida's 120mph winds and 'catastrophic' storm surge tear roofs off buildings, make the Mississippi River flow backwards and leave 750K without power including ALL of New Orleans and hospital where staff had to ventilate patients by hand
+Score: -0.0516
+
+Time: 2021-08-30 02:30:00+00:00
+STATE OF EMERGENCY: Dr. Mark Kline joins @DavidMuir to break down the impact of Hurricane Ida. The storm coming as the region’s COVID-19 crisis and hospitals are already full with patients now sheltering in place.
+Score: -0.8143
+
+Time: 2021-08-30 07:03:23+00:00
+NBCNews: Hurricane Ida made landfall Sunday in southern Louisiana as a ferocious Category 4 storm, tearing roofs from a hospital and homes, flooding roads and sending ferries adrift.
+Score: -0.1027
+
+Time: 2021-08-30 09:46:03+00:00
+IMAGES: Hurricane Ida made landfall Sunday in southern Louisiana as a ferocious Category 4 storm, tearing roofs from a hospital and homes, flooding roads and sending ferries adrift.
+Score: -0.1027
+
+Time: 2021-08-30 11:00:02+00:00
+After Hurricane Ida slammed into the Louisiana coast as a Category 4 storm Sunday, some Ochsner Health System hospitals will need to fully evacuate dozens of patients after experiencing flooding, roof damage and generator failures.
+
+MORE:
+Score: -0.7351
+
+Time: 2021-08-30 13:28:02+00:00
+Hurricane Ida live updates: first death in Louisiana &amp;New Orleans loses power.  1 million without power,  hospitals overwhelmed by Covid patients. IDA heading for Mississippi &amp; Tennessee Valley, be prepared. Hospitals without power are perilous for all!
+Score: -0.6946
+
+Time: 2021-08-30 13:33:00+00:00
+Hurricane #Ida impacted hospitals in Louisiana that were already dealing with a surge in #COVID19 patients.
+
+Many patients in hospital ICUs could not be evacuated before the storm.
+
+Hospitals with power outages are relying on generators and at least one reported roof damage.
+Score: -0.4939
+
+Time: 2021-08-30 14:14:58+00:00
+Hurricane Ida made landfall Sunday in southern Louisiana as a ferocious Category 4 storm, tearing roofs from a hospital and homes, flooding roads and sending ferries adrift.
+
+Score: -0.1027
+
+Time: 2021-08-30 17:00:43+00:00
+Please consider donating to the following organizations on the ground in Louisiana. Most of the city will be without power for 3+ weeks, 911 is offline, and hospitals can't evacuate patients as facilities in the South are at capacity. Ida was a horrific storm and help is needed.
+Score: -0.2263
+
+Time: 2021-08-30 17:25:51+00:00
+"Aiming to curb the health impacts of Ida, @projecthopeorg is sending its emergency response team to affected areas to distribute hygiene kits &amp; N95 masks to help limit the spread of #COVID19 in an area where hospitals were already at their breaking point before the storm hit."
+Score: -0.128
+
+Time: 2021-08-30 18:04:27+00:00
+Hospitals in Southeast Louisiana took a beating from Hurricane Ida, with roofs damaged at almost every facility and water leaking inside, forcing three bayou-country hospitals directly in the path of the storm to evacuate their patients.
+Score: -0.7096
+
+Time: 2021-08-30 19:56:02+00:00
+"The roof was blown off a south Louisiana hospital with patients inside, in a visceral indication of how the storm has collided with an already strained health-care system."
+
+Anthropogenic #climate change is bad for our Health
+
+@britsham @marialuisapaulr
+
+Score: -0.7351
+
+Time: 2021-08-30 22:17:04+00:00
+A fourth Louisiana hospital is being evacuated on Monday night due to power outrages and storm damage, officials say.
+Score: -0.7579
+
+Time: 2021-08-30 23:55:32+00:00
+Louisiana hospitals in the path of Hurricane Ida were forced to evacuate dozens of patients after the storm left them with pieces torn off their roofs, and water leaking down walls to pool on floors as they relied on emergency generators for electricity.
+
+
+Score: -0.765
+
+Time: 2021-08-31 00:43:47+00:00
+A fourth Louisiana hospital is being evacuated on Monday night due to power outrages and storm damage, officials say.
+Score: -0.7579
+
+Time: 2021-08-31 02:17:37+00:00
+Louisiana hospitals in the path of Ida were forced to evacuate dozens of patients after the storm left them with pieces torn off their roofs, and water leaking down walls to pool on floors.  #LouisianaNews #HealthNews #RegionalNews #Ida #HurricaneSeason2021
+Score: -0.6124
+
+Time: 2021-08-31 02:20:00+00:00
+Ida smashed into the Louisiana coast as a devastating Category 4 hurricane Sunday at a time when most hospitals were nearly full with coronavirus patients.
+
+Score: -0.6486
+
+Time: 2021-08-31 02:45:00+00:00
+Ida smashed into the Louisiana coast as a devastating Category 4 hurricane Sunday at a time when most hospitals were nearly full with coronavirus patients.
+Score: -0.6486
+
+Time: 2021-08-31 03:00:01+00:00
+Louisiana hospitals are facing difficult conditions tonight without power and evacuations after Ida. Some in the hurricane's path had their roofs ripped off and were relying on pumps for water.
+Score: -0.3612
+
+Time: 2021-08-31 05:30:00+00:00
+Louisiana hospitals in the path of Hurricane Ida were forced to evacuate dozens of patients after the storm left them with pieces torn off their roofs, and water leaking down walls to pool on floors as they relied on emergency generators for electricity.
+Score: -0.765
+
+Time: 2021-08-31 10:00:01+00:00
+Ida smashed into the Louisiana coast as a devastating Category 4 hurricane Sunday at a time when most hospitals were nearly full with coronavirus patients.
+Score: -0.6486
+
+Time: 2021-08-31 13:45:00+00:00
+Louisiana hospitals in the path of Hurricane Ida were forced to evacuate dozens of patients after the storm left damage throughout the buildings
+Score: -0.7351
+
+Time: 2021-08-31 14:04:05+00:00
+.@AP reports some “hospitals in the path of Ida were forced to evacuate dozens of patients after the storm left them with pieces torn off their roofs, and water leaking down walls to pool on floors as they relied on emergency generators for electricity.”
+Score: -0.765
+
+Time: 2021-08-31 14:45:00+00:00
+Louisiana hospitals in the path of Hurricane Ida were forced to evacuate dozens of patients after the storm left them with pieces torn off their roofs, and water leaking down walls to pool on floors as they relied on emergency generators for electricity.
+Score: -0.765
+
+Time: 2021-08-31 20:39:58+00:00
+Wondering why we keep talking about storm surges being as dangerous as winds in a Tropical Cyclone; watch this video from Hurricane Ida.
+Winds pile water against the coast &amp; low pressure ‘sucks’ up the water- a cm rise per hPa pressure fall. Imagine Cairns, hospital on foreshore
+Score: -0.8225
+
+Time: 2021-08-31 23:46:00+00:00
+Louisiana hospitals in the path of Hurricane Ida were forced to evacuate dozens of patients after the storm left them with pieces torn off their roofs, and water leaking down walls to pool on floors.
+Score: -0.6124
+
+Time: 2021-08-31 23:52:02+00:00
+Many of Louisiana’s hospitals were at capacity with COVID-19 patients before #HurricaneIda hit. This second crisis could push even more of them to the brink.
+Score: -0.6249
+
+Time: 2021-09-01 15:57:01+00:00
+Have been cleaning up after Hurricane Ida!!! My city stayed in the eye wall of the cat 4 storm for almost 8 hours!!! City is without power and water. Phones snd internet just coming online!!! It’s a total disaster!!! We have no working hospitals! Please pray for us
+Score: -0.6323
+
+Time: 2021-09-02 14:02:53+00:00
+Even before #HurricaneIda, hospitals across New Orleans and the rest of southeastern Louisiana were already close to capacity as the highly infectious Delta variant spread among a population with one of the nation’s lowest vaccination rates.  @JennyJarvie
+Score: -0.3818
+
+Time: 2021-09-02 22:39:16+00:00
+Omg this storm did a number on so many IDA wasn't  playing. And it's not just one state affected but many. Prepare  for the worse because  you never know. And the nursing homes 😟 800,000 without power. It's hot! The hospitals had to shut down, generators failed...smh my God😔🙏🏽
+Score: -0.6796
+
+Time: 2021-09-05 12:56:37+00:00
+I’ve been worried about a dear friend whose post-surgery recovery for fibroids didn’t go well. She felt so ill, she admitted herself to the hospital on the evening Hurricane Ida hit during the eye of the storm because that’s how bad she felt. This is this morning’s group message.
+Score: -0.1907
+
+Time: 2021-09-06 20:09:35+00:00
+Since #Ida left Louisiana 4 people have died and 141 treated in hospitals for carbon monoxide poisoning.
+
+This is a major PREVENTABLE cause of post-storm death.
+
+Always keep generators outside and min 20 ft from your home.
+@LADeptHealth
+Score: -0.9062
+
+Time: 2021-09-07 12:23:43+00:00
+Louisiana health officials say hurricane-damaged hospitals in the southeastern part of that state lost at least 200 beds because of Hurricane Ida.  The loss of space comes at a time when hospitals are dealing with storm-related injuries and the ongoing coronavirus pandemic.
+Score: -0.5574

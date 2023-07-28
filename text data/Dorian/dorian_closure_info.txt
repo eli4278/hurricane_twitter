@@ -1,0 +1,428 @@
+1. Found all tweets that contained keywords 'closed' or 'closing' (~11,000)
+2. Removed tweets unrelated to storm (~10,490)
+3. From those tweets, extracted those that contained one of ['hospital', 'health', 'clinic'] (105)
+
+Time: Thu Aug 29 22:25:42 +0000 2019 User: SamuelHHoward
+.@LoggerheadMC plans on closing its hospital and the Juno Beach Pier to visitors on Friday at noon. @LeslieStreeter wrote about that and more here:
+
+Time: Thu Aug 29 19:09:59 +0000 2019 User: democracee
+Unbelievably,I settled in Pan Handle because it was the most affordable area w/services I needed. It was devastated 10/10/18. 1 of 3 major hospitals closed, housing became scarce &amp; EXPENSIVE. I moved to MIAMI, DORIAN approaches! Ya can’t make this up.
+
+Time: Thu Aug 29 18:46:13 +0000 2019 User: WESH
+RT @clairemetzwesh: from #flaglercounty health dept staff: – they w b closed for services starting Friday, August 30 for Hurricane Dorian response &amp; Special Needs Shelter operation at Rymfire Elementary School.  Please refer to  for updates as to when services will resume.
+
+Time: Thu Aug 29 18:45:48 +0000 2019 User: clairemetzwesh
+from #flaglercounty health dept staff: – they w b closed for services starting Friday, August 30 for Hurricane Dorian response &amp; Special Needs Shelter operation at Rymfire Elementary School.  Please refer to  for updates as to when services will resume.
+
+Time: Thu Aug 29 14:14:29 +0000 2019 User: MikeBWeather
+#Dorian looks to have fought off the shear and ULL last night rather well and it looks to still have a healthy closed off core.
+
+Certainly still some dry air entering on that eastern eyewall but expect some marginal strengthening today.
+
+Time: Fri Aug 30 22:47:57 +0000 2019 User: watermelondriia
+RT @alfie322: elevated. Today, it's back on the ground. Foreclosed on and rotting from the bottom up. There are so many injustices hidden whether it's #Katrina #Sandy #Maria #Florence #Irma and if #Dorian hits, there will be injustices there too. There will be financial struggles, health 17/
+
+Time: Fri Aug 30 21:12:56 +0000 2019 User: CCIndianRiver
+Due to the anticipated impact of Hurricane Dorian, Cleveland Clinic Indian River Hospital’s Walk In Care Centers, Health &amp; Wellness Center and clinics will be closed until Tuesday, September 3. Our 24-hour emergency department will remain open.
+
+Time: Fri Aug 30 20:56:02 +0000 2019 User: alfie322
+elevated. Today, it's back on the ground. Foreclosed on and rotting from the bottom up. There are so many injustices hidden whether it's #Katrina #Sandy #Maria #Florence #Irma and if #Dorian hits, there will be injustices there too. There will be financial struggles, health 17/
+
+Time: Fri Aug 30 19:59:16 +0000 2019 User: CHCFL
+In preparation for Hurricane Dorian, we will be closing health centers on Saturday, August 31 thru Tuesday, September 3. We  plan to resume normal business operations on Wednesday, September 4 at Noon.
+
+Time: Fri Aug 30 17:42:17 +0000 2019 User: RentHomeFL
+Rental Home Management Services, Inc. Emergency procedures are in effect due to Hurricane Dorian. If you have a health or safety emergency please call 911.
+
+Our office is closed Monday Sept. 2nd for Labor Day and may close Tuesday or Wednesday depending on the storm’s path.
+
+Time: Fri Aug 30 16:15:10 +0000 2019 User: GenHealthPBC
+We are closing at 2pm today to prepare for #Hurricane Dorian. If you are having a medical emergency, call 9-1-1. If you have a medical question, dial your office and our answering service will ensure your doctor receives your message. You can also email us: info@gencomhealth.org
+
+Time: Fri Aug 30 15:43:52 +0000 2019 User: palmercollege
+Palmer College of Chiropractic Florida and its clinics are closed until at least Tuesday, Sept. 3, due to Hurricane Dorian.
+
+Time: Fri Aug 30 14:57:48 +0000 2019 User: CANCommHealth
+Due to Hurricane Dorian, the following CAN Community Health clinics will be closed Tuesday, September 3: North Miami, South Beach, Broward House West, Broward House Central, Orlando, Jacksonville, and Daytona. For more information please visit
+
+Time: Fri Aug 30 13:30:06 +0000 2019 User: Nona_Adventure
+As Dorian heads our way, our thoughts are with all of our Nona friends.  At the end of Happy Hour tonight we will be closing the park and preparing for Dorian’s arrival.  We hope to open and see you all safe, healthy and ready for fun next week after the storm passes.  Be safe!
+
+Time: Fri Aug 30 13:04:29 +0000 2019 User: wxmvpete
+#Dorian is getting outflow assist from the upper level trough to the west but it also continues to feel effects of dry southerly flow from the D.R. With HHs reporting the eyewall is closed &amp; the dry/southerly flow expect to cease later today, Dorian will only get healthier.
+
+Time: Fri Aug 30 12:38:36 +0000 2019 User: jbhmed1
+Stay safe this weekend with Hurricane Dorian... we will be closed Monday 9/2/2019 in observance of Labor Day...regular schedule will resume Wed. 9/4/2019
+#HurricaneDorian2019 #LaborDayWeekend #healthcare
+
+Time: Sat Aug 31 18:08:52 +0000 2019 User: JCUcros
+RT @CCIndianRiver: Due to the anticipated impact of Hurricane Dorian, Cleveland Clinic Indian River Hospital’s Walk In Care Centers, Health &amp; Wellness Center and clinics will be closed until Tuesday, September 3. Our 24-hour emergency department will remain open.
+
+Time: Sat Aug 31 14:44:46 +0000 2019 User: MDNowUrgentCare
+Due to Hurricane Dorian, some MD Now clinics are closed or experiencing adjusted hours.
+
+If you are in need of medical care during the storm:
+1️⃣ Visit
+2️⃣ Find and click on your nearest location
+3️⃣ View the location's current status and hours
+
+Time: Sat Aug 31 14:17:39 +0000 2019 User: LifeInNaplesMag
+.@ConservancySWFL closed until 9/4 as they prepare 4 Dorian. The wildlife hospital WILL continue 2 accept animals from 8am-8pm They're requesting donations via their Amazon wish list to care for the injured wildlife they know are coming
+
+AMAZON WISH LIST:
+
+Time: Sun Sep 01 23:02:36 +0000 2019 User: DannyBurgessFL
+RT @FLVetsAffairs: VA announces additional outpatient clinic closures &amp; facility updates for Wednesday. Most VA clinics in Florida other than Tampa area and Panhandle already closed Tuesday. @VABayPines, @OrlandoVAMC, @FLSERT, #FLPrepares, #Dorian, #FLVets????
+
+Time: Sun Sep 01 22:41:05 +0000 2019 User: tauffyt
+RT @UMiamiHealth: In the interest of safety for our patients &amp; employees, all clinical operations will be closed at 3 facilities on Tuesday, September 3rd:
+-UHealth-Boca Raton
+-UHealth-Palm Beach Gardens
+-Bascom Palmer Eye Institute-Palm Beach Gardens
+Full details here:
+
+Time: Sun Sep 01 21:04:07 +0000 2019 User: FLHospitalAssn
+RT @BaptistHealthSF: Hurricane #Dorian update: A Hurricane Watch and Tropical Storm watches and warnings have been issued for parts of South Florida. For the latest information on all Baptist Health hospitals and outpatient centers including openings and closings, visit
+
+Time: Sun Sep 01 20:41:20 +0000 2019 User: BaptistHealthSF
+Hurricane #Dorian update: A Hurricane Watch and Tropical Storm watches and warnings have been issued for parts of South Florida. For the latest information on all Baptist Health hospitals and outpatient centers including openings and closings, visit
+
+Time: Sun Sep 01 19:25:39 +0000 2019 User: NegusHamitic
+RT @ILoveForestGre1: Yes, Dorian, you scum, keep your grimy paws off my state (undisclosed location) &amp; off North Carolina.
+And if you must eat trees, eat trees that are already in bad shape, not healthy trees! #KeepOffTheTreesDorian
+
+Time: Sun Sep 01 19:04:50 +0000 2019 User: ILoveForestGre1
+Yes, Dorian, you scum, keep your grimy paws off my state (undisclosed location) &amp; off North Carolina.
+And if you must eat trees, eat trees that are already in bad shape, not healthy trees! #KeepOffTheTreesDorian
+
+Time: Sun Sep 01 18:10:49 +0000 2019 User: jacyatt
+RT @CHCFL: In preparation for Hurricane Dorian, we will be closing health centers on Saturday, August 31 thru Tuesday, September 3. We  plan to resume normal business operations on Wednesday, September 4 at Noon.
+
+Time: Sun Sep 01 17:50:50 +0000 2019 User: FLVetsAffairs
+VA announces additional outpatient clinic closures &amp; facility updates for Wednesday. Most VA clinics in Florida other than Tampa area and Panhandle already closed Tuesday. @VABayPines, @OrlandoVAMC, @FLSERT, #FLPrepares, #Dorian, #FLVets????
+
+Time: Sun Sep 01 17:22:10 +0000 2019 User: UMiamiHealth
+In the interest of safety for our patients &amp; employees, all clinical operations will be closed at 3 facilities on Tuesday, September 3rd:
+-UHealth-Boca Raton
+-UHealth-Palm Beach Gardens
+-Bascom Palmer Eye Institute-Palm Beach Gardens
+Full details here:
+
+Time: Mon Sep 02 23:46:54 +0000 2019 User: mrodslp
+RT @Jaxhealth: We continue to monitor Hurricane Dorian. Given area evacuations, closures, and the storm?s potential impact, all Ascension St. Vincent?s medical group offices are closed through Wednesday. This includes our primary care, urgent care and specialty care clinics.
+
+Time: Mon Sep 02 23:29:27 +0000 2019 User: MikeFout1
+RT @jaxdotcom: UPDATED | Baptist Medical Center Beaches is now closed due to Hurricane #Dorian, and its patients have completed evacuations to sister hospitals as of 7 p.m.
+
+Time: Mon Sep 02 23:13:14 +0000 2019 User: MssLiberty
+RT @DougSides: ??PLEASE SHARE THIS IMPORTANT INFORMATION
+Floridans needing medical care will need to check before heading to hospitals located in evacuation zones.
+Many hospitals located in coastal areas have transported patients inland, and are closed.
+#HurricaneDorian #Dorian #Dorian2019
+
+Time: Mon Sep 02 23:10:22 +0000 2019 User: jaxdotcom
+UPDATED | Baptist Medical Center Beaches is now closed due to Hurricane #Dorian, and its patients have completed evacuations to sister hospitals as of 7 p.m.
+
+Time: Mon Sep 02 21:42:42 +0000 2019 User: CreamyCollie
+Just got the notice from the office manager that our hospital will be closed tomorrow and Wednesday for the storm. Time to eat ALL my hurricane snacks and hope Dorian stays as far away as possible.
+
+Time: Mon Sep 02 21:14:14 +0000 2019 User: TheDrsCenter
+We will be closed tomorrow, 9/3/2019, due to Hurricane Dorian. We will provide and update in regards to the rest of the week as the storms track becomes more certain. #jaxflorida #jaxfl #jacksonvilleflorida #hurricanedorian #hurricane #jacksonvillehealth #florida #FloridaProblems
+
+Time: Mon Sep 02 20:19:57 +0000 2019 User: MiamiMarine
+RT @FLVetsAffairs: North Florida/South Georgia Veterans Health System (VA) announces cancellation of outpatient appointments on Wednesday at clinics in Jacksonville, Palatka &amp; St. Augustine. St. Marys Clinic in Georgia too. All clinics within NF/SGVHS are closed Tuesday. #VHA #Dorian #FLVets????
+
+Time: Mon Sep 02 20:13:58 +0000 2019 User: thinkpraybot
+RT @chs_hospitality: Our thoughts and prayers go out to all those in the path of Hurricane Dorian, as well as with the first responders and emergency officials doing their best to keep us safe. We will keep you updated on Lowcountry openings and closings in the coming days!
+
+Time: Mon Sep 02 20:03:52 +0000 2019 User: DougSides
+??PLEASE SHARE THIS IMPORTANT INFORMATION
+
+Floridans needing medical care will need to check before heading to hospitals located in evacuation zones.
+
+Many hospitals located in coastal areas have transported patients inland, and are closed.
+
+#HurricaneDorian #Dorian #Dorian2019
+
+Time: Mon Sep 02 19:12:35 +0000 2019 User: Jaxhealth
+We continue to monitor Hurricane Dorian. Given area evacuations, closures, and the storm?s potential impact, all Ascension St. Vincent?s medical group offices are closed through Wednesday. This includes our primary care, urgent care and specialty care clinics.
+
+Time: Mon Sep 02 19:06:07 +0000 2019 User: FLVetsAffairs
+North Florida/South Georgia Veterans Health System (VA) announces cancellation of outpatient appointments on Wednesday at clinics in Jacksonville, Palatka &amp; St. Augustine. St. Marys Clinic in Georgia too. All clinics within NF/SGVHS are closed Tuesday. #VHA #Dorian #FLVets????
+
+Time: Mon Sep 02 16:14:00 +0000 2019 User: therealtmal
+RT @MUSCPR: MUSC classes are canceled and the University is closed until further notice.
+
+MUSC Health hospitals remain under normal operations at this time. #chsnews #scnews #HurricaneDorian #Hurricane #Dorian #Dorian2019
+
+Time: Mon Sep 02 14:36:16 +0000 2019 User: FLHospitalAssn
+RT @stluciemed: UPDATE: Our St. Lucie Medical Center ER at Darwin Square remains closed today in preparation for Dorian.
+Please note there will be no hospital patient visitation today. Patients can be reached by dialing the main hospital number at (772) 335-4000.
+
+Time: Mon Sep 02 12:55:43 +0000 2019 User: MUSCPR
+MUSC classes are canceled and the University is closed until further notice.
+
+MUSC Health hospitals remain under normal operations at this time. #chsnews #scnews #HurricaneDorian #Hurricane #Dorian #Dorian2019
+
+Time: Mon Sep 02 12:30:09 +0000 2019 User: stluciemed
+UPDATE: Our St. Lucie Medical Center ER at Darwin Square remains closed today in preparation for Dorian.
+Please note there will be no hospital patient visitation today. Patients can be reached by dialing the main hospital number at (772) 335-4000.
+
+Time: Mon Sep 02 12:26:17 +0000 2019 User: GoodMentalHeal
+Due to Hurricane Dorian, our office will be closed Tuesday-Wednesday this week. Stay safe, friends. See you when the storm passes! ?? #goawaydorian #goodmentalhealth #staugustine #florida
+
+Time: Mon Sep 02 04:03:10 +0000 2019 User: TalkinToU
+RT @WCBD: FULL LIST: We're updating this list of school, college, health and business closings as the Lowcountry prepares for Hurricane Dorian. #chs #chsnews
+
+Time: Mon Sep 02 03:40:57 +0000 2019 User: BascomPalmerEye
+RT @UMiamiHealth: In the interest of safety for our patients &amp; employees, all clinical operations will be closed at 3 facilities on Tuesday, September 3rd:
+-UHealth-Boca Raton
+-UHealth-Palm Beach Gardens
+-Bascom Palmer Eye Institute-Palm Beach Gardens
+Full details here:
+
+Time: Mon Sep 02 03:38:12 +0000 2019 User: JessieTriceCHS
+JTCHS ANNOUNCEMENT -- We are continuing to monitor Hurricane Dorian. As of now, our clinics will open as scheduled on Tuesday, September 3, 2019. All of our school-based clinics will be closed and will reopen when MDCPS reopens.
+
+Time: Mon Sep 02 02:43:41 +0000 2019 User: NicholasJBique
+RT @FLVetsAffairs: VA announces additional outpatient clinic closures &amp; facility updates for Wednesday. Most VA clinics in Florida other than Tampa area and Panhandle already closed Tuesday. @VABayPines, @OrlandoVAMC, @FLSERT, #FLPrepares, #Dorian, #FLVets????
+
+Time: Mon Sep 02 01:48:22 +0000 2019 User: WCBD
+FULL LIST: We're updating this list of school, college, health and business closings as the Lowcountry prepares for Hurricane Dorian. #chs #chsnews
+
+Time: Mon Sep 02 01:09:52 +0000 2019 User: brendanclark
+Lowcountry Regional EMS Council Administrative Offices will remain closed until further notice. All EMS classes and clinical rotations are canceled effective Monday, September 2, 2019, until further notice. @WCBD #Dorian
+
+Time: Tue Sep 03 23:03:52 +0000 2019 User: wcti12
+Officials at Vidant Medical Center say they will not be closing hospitals in eastern North Carolina as Dorian approaches.
+
+
+Time: Tue Sep 03 20:10:13 +0000 2019 User: MedMarkCenters
+?? ADVISORY NOTICE ??: MedMark Treatment Centers Savannah will be closed until Friday September 6th due to mandatory evacuations from Hurricane Dorian. Guest dosing is authorized, please notify us when you have identified a clinic. Thank you for your understanding!
+
+Time: Tue Sep 03 19:46:17 +0000 2019 User: EnidAtwater
+RT @WLRN: Shelters, hospitals, schools, airports: what's closed, what's open and what you need to know in Palm Beach and Broward counties ahead of #HurricaneDorian.
+
+Time: Tue Sep 03 19:43:35 +0000 2019 User: RevDrJamesJaco2
+RT @DAVHQ: More than 30 VA outpatient clinics from Key West to south Georgia remain closed as unpredictable Hurricane Dorian inches toward U.S. coast.
+
+#hurricanedorian
+
+Time: Tue Sep 03 19:43:00 +0000 2019 User: DAVHQ
+More than 30 VA outpatient clinics from Key West to south Georgia remain closed as unpredictable Hurricane Dorian inches toward U.S. coast.
+
+#hurricanedorian
+
+Time: Tue Sep 03 18:20:33 +0000 2019 User: FLHospitalAssn
+RT @Jaxhealth: In an effort to keep our associates, patients, and their loved ones safe during Hurricane #Dorian, we are closing Ascension St. Vincent?s Clay County, Ascension St. Vincent?s Riverside, and Ascension St. Vincent?s Southside to visitors only, beginning at 5 p.m. today. (1/3)
+
+Time: Tue Sep 03 16:28:39 +0000 2019 User: maddycfox
+RT @healthcaredist: Due to Hurricane Dorian, the Health Care District of Palm Beach County?s administrative offices, the C. L. Brumback Primary Care Clinics &amp; Pharmacies are closed through Wednesday, September 4th.
+
+Be safe. Check social media, TV, radio, &amp;  for any updates.
+
+Time: Tue Sep 03 14:58:37 +0000 2019 User: QuintinOnCamera
+Just Breaking.. all MUSC Health clinics will be closing on Wednesday.
+
+#chsnews #Dorian
+
+Time: Tue Sep 03 14:00:01 +0000 2019 User: WLRN
+Shelters, hospitals, schools, airports: what's closed, what's open and what you need to know in Palm Beach and Broward counties ahead of #HurricaneDorian.
+
+Time: Tue Sep 03 12:57:45 +0000 2019 User: FLVetsAffairs
+RT @TampaVA: Due to the ongoing Hurricane Dorian watch for Polk County ?
+we will be closing the Lakeland Clinic at noon on Tuesday,  Sept. 3. At this time, we anticipate being
+open tomorrow for our regular hours.
+
+All other clinics remain open as usual.
+
+Time: Tue Sep 03 12:40:05 +0000 2019 User: TampaVA
+Due to the ongoing Hurricane Dorian watch for Polk County ?
+we will be closing the Lakeland Clinic at noon on Tuesday,  Sept. 3. At this time, we anticipate being
+open tomorrow for our regular hours.
+
+All other clinics remain open as usual.
+
+Time: Tue Sep 03 11:35:26 +0000 2019 User: _Sound_Around_
+Florida coast braces for Hurricane Dorian
+With Hurricane Dorian essentially stalling to the east, parts of the Florida coasts are bracing for what Dorian could bring. Schools are closed throughout Palm Beach County, the West Palm airport is closed, and several hospitals in t?
+
+Time: Tue Sep 03 10:24:07 +0000 2019 User: RonaldPetrovich
+RT @MayoClinic: #MayoClinicFL is closed Tues 9/3 and Wed 9/4, reopening for normal business Thur 9/5. Patients will be contacted directly by staff about rescheduling. The hospital and emergency department remain open.
+
+#HurricaneDorian hotline for patients: 904-953-7100.
+
+
+
+Time: Tue Sep 03 04:20:11 +0000 2019 User: Truth_n_Writing
+RT @DougSides: ??PLEASE SHARE THIS IMPORTANT INFORMATION
+
+Floridans needing medical care will need to check before heading to hospitals located in evacuation zones.
+
+Many hospitals located in coastal areas have transported patients inland, and are closed.
+
+#HurricaneDorian #Dorian #Dorian2019
+
+Time: Tue Sep 03 03:45:16 +0000 2019 User: lawyermarketer
+Hurricane Dorian: What PBC hospitals are closed ahead of storm - News - The Palm Beach Post - West Palm Beach, FL
+
+Time: Tue Sep 03 02:51:51 +0000 2019 User: MarianneEPorter
+RT @pbpost: What PBC hospitals are closed ahead of storm
+
+Time: Tue Sep 03 02:45:00 +0000 2019 User: pbpost
+What PBC hospitals are closed ahead of storm
+
+Time: Tue Sep 03 02:44:07 +0000 2019 User: chulaamamiii
+RT @pbpost: Hurricane Dorian: What PBC hospitals are closed ahead of storm
+
+Time: Tue Sep 03 02:35:03 +0000 2019 User: pbpost
+Hurricane Dorian: What PBC hospitals are closed ahead of storm
+
+Time: Tue Sep 03 02:00:49 +0000 2019 User: rahulbali
+A number of Lake Area county health departments will be closing so staffers can help respond to Hurricane #Dorian.
+
+Starting Tuesday, clinical services will not be available in Baldwin, Hancock, Jasper, Jones, Putnam, Washington and Wilkinson Counties.
+
+Time: Tue Sep 03 01:49:08 +0000 2019 User: NewsMother
+@MayoClinic in Florida is closed all day Tuesday, Sept. 3 &amp; Wednesday, Sept. 4. #MayoClinicFL Will reopen for normal business Thursday, Sept. 5. The hospital &amp; emergency department remain open.
+
+#HurricaneDorian #hurricane #FloridaState #floridahurricane
+
+Time: Tue Sep 03 00:43:30 +0000 2019 User: MayoClinic
+#MayoClinicFL is closed Tues 9/3 and Wed 9/4, reopening for normal business Thur 9/5. Patients will be contacted directly by staff about rescheduling. The hospital and emergency department remain open.
+
+#HurricaneDorian hotline for patients: 904-953-7100.
+
+
+
+Time: Wed Sep 04 22:14:49 +0000 2019 User: WAVQRadio
+RT @OnslowHospital: Update: In preparation for Hurricane Dorian and to ensure the safety of our patients, their family and our staff members, some of our outpatient services and clinics will be closed on September 5th and 6th. Please visit our website for more information:
+
+Time: Wed Sep 04 20:50:25 +0000 2019 User: JayatWUNC
+As a precaution with Hurricane Dorian moving north, the VA is closing coastal North Carolina clinics – Wilmington Heath Care Center, and Brunswick County and Jacksonville Community-based Outpatient clinics. They’ll be shut  Thursday and Friday, Sept. 5 and 6. But...
+
+Time: Wed Sep 04 20:07:27 +0000 2019 User: OnslowHospital
+Update: In preparation for Hurricane Dorian and to ensure the safety of our patients, their family and our staff members, some of our outpatient services and clinics will be closed on September 5th and 6th. Please visit our website for more information:
+
+Time: Wed Sep 04 17:51:33 +0000 2019 User: CORAPTherapy
+Update as of Wednesday, September 4 at 12:30pm:
+
+For the safety of our patients &amp; employees, the following clinics remain closed today in Florida, Georgia, South Carolina &amp; North Carolina; others to re-open tomorrow September 5. #HurricaneDorian
+
+
+
+Time: Wed Sep 04 16:51:46 +0000 2019 User: chamberlainedu
+Due to impacts possible with the passage of Hurricane Dorian, the Chamberlain Jacksonville campus will be closed tomorrow, Thursday, 9/5. All classes and clinicals are cancelled. Resumption of normal operations at the Chamberlain Jacksonville campus is anticipated for Friday 9/6.
+
+Time: Wed Sep 04 15:39:02 +0000 2019 User: jaxdotcom
+Because of their coastal locations, some area hospitals and their emergency rooms are closed as #HurricaneDorian moves past Northeast Florida. Others have restricted visitor access. Here's what you need to know.
+
+Time: Wed Sep 04 13:07:48 +0000 2019 User: Grasa03533309
+RT @MayoClinic: Due to #HurricaneDorian, #MayoClinicFL is closed through Wed 9/4, with plans to reopen for normal hours Thur 9/5. The hospital and ER remain open as long as it's safe to travel.
+
+Call 904-953-0320 between 7a-7p ET on Wed to reschedule appts.
+
+More info:
+
+Time: Wed Sep 04 12:26:08 +0000 2019 User: nickragone2
+RT @Jaxhealth: In an effort to keep our associates, patients, and their loved ones safe during Hurricane #Dorian, we are closing Ascension St. Vincent’s Clay County, Ascension St. Vincent’s Riverside, and Ascension St. Vincent’s Southside to visitors only, beginning at 5 p.m. today. (1/3)
+
+Time: Wed Sep 04 12:21:20 +0000 2019 User: lindaoliver11
+RT @DAVHQ: More than 30 VA outpatient clinics from Key West to south Georgia remain closed as unpredictable Hurricane Dorian inches toward U.S. coast.
+
+#hurricanedorian
+
+Time: Wed Sep 04 11:57:49 +0000 2019 User: theMSGR
+RT @rahulbali: A number of Lake Area county health departments will be closing so staffers can help respond to Hurricane #Dorian.
+
+Starting Tuesday, clinical services will not be available in Baldwin, Hancock, Jasper, Jones, Putnam, Washington and Wilkinson Counties.
+
+Time: Wed Sep 04 00:56:19 +0000 2019 User: MayoClinic
+Due to #HurricaneDorian, #MayoClinicFL is closed through Wed 9/4, with plans to reopen for normal hours Thur 9/5. The hospital and ER remain open as long as it's safe to travel.
+
+Call 904-953-0320 between 7a-7p ET on Wed to reschedule appts.
+
+More info:
+
+Time: Thu Sep 05 23:34:14 +0000 2019 User: DuPouvoirDachat
+RT @HRChealthcenter: ??Hurricane Dorian Update??:  Due to Hurricane Dorian, the Hampton Roads Community Health Center,  will be closed Friday, September 6, 2019.
+For emergencies call 911. After hours Provider/Dentist on-call: 757-393-6363
+#Dorian2019  #HurricaneDorian2019
+
+Time: Thu Sep 05 19:28:08 +0000 2019 User: EVMSedu
+EVMS/EVMS Medical Group will be closed Friday, September 6, 2019, due to the anticipated impact of Hurricane Dorian.
+There will be no student lectures or exams, and no clinical or resident operations in EVMS facilities. #dorian #dorian757
+
+Time: Thu Sep 05 18:58:30 +0000 2019 User: STFUImTweetn0_o
+RT @TRICARE: Some military hospitals and clinics in Hurricane #Dorian's path may be closed or operating under limited conditions. Please contact your facility to verify operating hours if you have any scheduled appointments or procedures.
+
+Time: Thu Sep 05 18:56:02 +0000 2019 User: TRICARE
+Some military hospitals and clinics in Hurricane #Dorian's path may be closed or operating under limited conditions. Please contact your facility to verify operating hours if you have any scheduled appointments or procedures.
+
+Time: Thu Sep 05 17:30:52 +0000 2019 User: CORAPTherapy
+CLINIC CLOSURE UPDATE AS OF THURSDAY, SEPTEMBER 5 at 12:45 PM:
+
+For the safety of our patients and employees, the following clinics remain closed on Thursday, 9/5; Georgia locations to re-open tomorrow 9/6.
+
+
+
+Time: Thu Sep 05 16:18:27 +0000 2019 User: sentaracollege
+Hurricane Dorian update: The College will close at 4:00 pm on Thursday and remain closed on Friday. All classes, clinicals, and activities are canceled. Hurricane preparedness tips:
+
+Time: Thu Sep 05 15:33:26 +0000 2019 User: VIPMediaEvent
+RT @sentarahealth: HURRICANE DORIAN ? UPDATE #1
+We have implemented hospital and facility-specific emergency management plans in preparation for Hurricane Dorian. Visit our website at  for the latest facility closings and information. #SentaraUpdates
+
+Time: Thu Sep 05 15:05:01 +0000 2019 User: jaxdotcom
+After closing for Hurricane #Dorian, Baptist Medical Center Beaches and Baptist Medical Center Nassau will reopen Thursday as the Northeast Florida health care world begins to return to normal.
+
+Time: Thu Sep 05 14:20:14 +0000 2019 User: NCHealthNews
+#Veteran Disaster Hotline is 800-507-4571. These #NCVA clinics closed for #DorianNC: Morehead City outpatient, Wilmington Health Care Center, Brunswick County and Jacksonville outpatient.
+
+
+
+Time: Thu Sep 05 14:16:04 +0000 2019 User: sentarahealth
+HURRICANE DORIAN ? UPDATE #1
+We have implemented hospital and facility-specific emergency management plans in preparation for Hurricane Dorian. Visit our website at  for the latest facility closings and information. #SentaraUpdates
+
+Time: Thu Sep 05 13:25:26 +0000 2019 User: eligigDO
+RT @se_health: SeHealth prepares for Hurricane Dorian; closings and visitation guidelines
+
+Time: Fri Sep 06 21:18:32 +0000 2019 User: healthnutzHfx
+Mic Mac Mall is closed all day Sept. 7 due to hurricane Dorian.  Stay safe, we'll see you on Sunday. #HurricaneDorian2019 #healthnutz
+
+Time: Fri Sep 06 18:51:57 +0000 2019 User: NCdotGov
+RT @NCPublicHealth: State health officials are warning against using gas-powered generators and other outdoor grills/camp stoves in enclosed spaces during #HurricaneDorian because of the threat of carbon monoxide poisoning.  #DorianNC @NCPublicSafety @NCEmergency
+
+Time: Fri Sep 06 18:01:25 +0000 2019 User: NCPublicHealth
+State health officials are warning against using gas-powered generators and other outdoor grills/camp stoves in enclosed spaces during #HurricaneDorian because of the threat of carbon monoxide poisoning.  #DorianNC @NCPublicSafety @NCEmergency
+
+Time: Fri Sep 06 16:57:28 +0000 2019 User: CA_JeffWebber
+RT @sentarahealth: HURRICANE DORIAN – UPDATE #2
+Visit our website at  for the latest facility closings and information. #SentaraUpdates
+
+Time: Fri Sep 06 15:30:52 +0000 2019 User: TonyWDonovan
+RT @TRICARE: Some military hospitals and clinics in Hurricane #Dorian's path may be closed or operating under limited conditions. Please contact your facility to verify operating hours if you have any scheduled appointments or procedures.
+
+Time: Fri Sep 06 14:24:48 +0000 2019 User: CORAPTherapy
+CLINIC CLOSURE UPDATE: FRIDAY, SEPTEMBER 6 at 8:30 AM:
+For the safety of our patients and employees, the following clinics remain closed today September 6. All other clinics are scheduled to resume normal hours of operation.
+
+Time: Fri Sep 06 09:09:05 +0000 2019 User: McDonaldAHC
+All services at McDonald Army Health Center to include ancillary services (pharmacy/refill, radiology, and lab) will be closed on 6 September 2019 due to Hurricane Dorian. All health center services are expected to resume on Monday 9 September 2019.
+
+Time: Fri Sep 06 03:25:38 +0000 2019 User: beaglelady54
+@roper_93 It is Friday for me.  We are expecting rain and wind from Dorian here. The veterinary hospital where I work is closed tomorrow.
+
+Time: Mon Sep 09 16:17:50 +0000 2019 User: Health_PEI
+RT @InfoPEI: Wondering what Health PEI facilities, clinics, etc. are open, or closed due to power outages?
+
+This list is regularly updated so check back often:
+
+Time: Mon Sep 09 16:17:10 +0000 2019 User: News1English
+Schools and health centers closed in provinces of Canada due to Dorian storm
+
+Time: Mon Sep 09 16:13:56 +0000 2019 User: InfoPEI
+Wondering what Health PEI facilities, clinics, etc. are open, or closed due to power outages?
+
+This list is regularly updated so check back often:

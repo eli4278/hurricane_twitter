@@ -1,0 +1,970 @@
+Procedure:
+1. Find tweets from storm_ida that contain the words "hospital" and at least one of ['shut', 'down', 'capacity', 'full', 'limit', 'out']
+2. Remove duplicate tweets.
+3. Further questions: Which types of accounts are sending this information?
+
+Time: 2019-08-22 08:11:59+00:00 User: darling_dorian
+@TomHChamp He’s a pretty popular Captain America cosplayer based out of Colorado ^^ he runs a charity organization that donates money to kids in the hospital and organizes trips to visit them in cosplay as their favorite heroes. He’s a super wholesome dude ^^
+
+Time: 2019-08-22 18:22:45+00:00 User: dorian_sanchez
+RT @RoKhanna: Medicare for All is cost-effective because it eliminates many of the administrative costs of our current healthcare system which account for over 25 percent of the total spending on hospital care.
+
+For context, check out the growth in healthcare administrators since 1979: https://t.co/NVGxRMIBUz
+
+Time: 2019-08-27 00:27:01+00:00 User: saintluciaNEMO
+NTN Nightly Aug 26 - Saint Lucia is under a national shutdown as the island braces for the impact of TS Dorian. Emergency Services are on standby and contingency measures are in place for the St Jude’s and Victoria hospitals. https://t.co/TH7lkYjcGj
+
+Time: 2019-08-27 03:19:13+00:00 User: SnaliahMahal
+RT @saintluciaNEMO: NTN Nightly Aug 26 - Saint Lucia is under a national shutdown as the island braces for the impact of TS Dorian. Emergency Services are on standby and contingency measures are in place for the St Jude’s and Victoria hospitals. https://t.co/TH7lkYjcGj
+
+Time: 2019-08-27 11:50:17+00:00 User: biscottithedog
+Saw friend in hospital. On double dose of Lasix via IV as water pills hadn’t worked. Watching with concern T.S. Dorian’s path for #LaborDay wkend. Son going out of town, told DIL to bring grandson &amp; dog here if they want
+
+Time: 2019-08-27 20:44:46+00:00 User: giselleaguiar
+Excellent! I was 2 weeks w/out power after Andrew in #Miami. 3 days after Frances in Palm Bay, threw out my food, filled my fridge, then Jeanne came &amp; 3 days w/out power. Lost all again. I lived near a hospital in PB, so I got power back quickly.
+Be wise &amp; be safe. I❤️AZ #DORIAN https://t.co/1UekSnLaCi
+
+Time: 2019-08-27 22:20:02+00:00 User: tvforrvparks
+Tropical Storm Dorian Will Approach Puerto Rico on Wednesday and Could Threaten Florida Labor Day Weekend - https://t.co/9eCtY2qEwB #outdoors #hospitality #rvparks #campgrounds https://t.co/KUaMSSwXGB
+
+Time: 2019-08-28 13:35:28+00:00 User: biscottithedog
+very unhappy with news &amp; stormed out. Friend still in hospital putting a camera in her to check heart. Out of town friends coming over our house today for happy hour bites. Watching T.S. Dorian 🙏🏻 will see if DIL, grandson will come here while son goes to wedding out of town
+
+Time: 2019-08-28 14:51:04+00:00 User: 247CareMiami
+If your loved one is in a residential facility, find out all the emergency plans for that location. Make sure you know the exact evacuation plans for the facility, where the nearest hospital is, and who you can contact to stay in touch with throughout the event.  #dorian
+
+Time: 2019-08-28 17:06:42+00:00 User: KatelynnDParker
+You know it’s getting serious when the hospital sends out what team you’re on for this weekend 😎🙃 #Dorian #TeamA #HurricaneSeason
+
+Time: 2019-08-28 19:01:51+00:00 User: FixPuertoRicoUS
+@wandavazquezg @Elmer_Roman_DSP never again should #PuertoRico leaders attempt to restrict medical care. #Dorian
+"Only if the hospital was full would a case be reviewed for possible referral to the Comfort."
+@DavidBegnaud @FrancesRobles @danicacoto
+ https://t.co/xmowqwOXPn
+
+Time: 2019-08-28 21:05:13+00:00 User: mejerl14
+RT @247CareMiami: If your loved one is in a residential facility, find out all the emergency plans for that location. Make sure you know the exact evacuation plans for the facility, where the nearest hospital is, and who you can contact to stay in touch with throughout the event.  #dorian
+
+Time: 2019-08-29 03:02:51+00:00 User: PRus51
+Southwest Florida hospitals are ready for Hurricane Dorian https://t.co/oGK6k3wgRj
+
+Time: 2019-08-29 10:44:54+00:00 User: ThuyLanWTSP
+One thing to remember is we are all in this storm prep for #dorian together. One Blood needs donations now because once the storm hits people will not be able to get out to donate, but hospitals will still need it. @BrightsideOn10 https://t.co/0NPQM4gUwZ
+
+Time: 2019-08-29 10:48:00+00:00 User: sophiisalamanca
+RT @ThuyLanWTSP: One thing to remember is we are all in this storm prep for #dorian together. One Blood needs donations now because once the storm hits people will not be able to get out to donate, but hospitals will still need it. @BrightsideOn10 https://t.co/0NPQM4gUwZ
+
+Time: 2019-08-29 11:49:44+00:00 User: Satin_Lavender
+@DidacticFlannel It looks like PR dodged Dorian's bullet. It's 90 miles N of PR, moving NE and is projected to turn and hit Florida where hopefully it will fizzle. They've reinforced hospitals and all have generators in PR so some rain and wind but nowhere like a Maria. Fingers crossed. Smile.
+
+Time: 2019-08-29 18:07:53+00:00 User: HouseofGrazier
+I work at a hospital in Florida, I am scheduled to work Monday night and so far nothing about a disaster plan for Dorian.
+
+Time: 2019-08-29 18:09:35+00:00 User: belipunk
+Okay, so Dorian’s about to hit us here in Florida ... 🎶Just another day in paradise🎶  Counting on the hospitality of my friends on the West Coast  😚😚c_34_white leader619 elenafalcon @Tdysonimages @milucho_16… https://t.co/5rdZqMzMXw
+
+Time: 2019-08-29 22:25:42+00:00 User: SamuelHHoward
+.@LoggerheadMC plans on closing its hospital and the Juno Beach Pier to visitors on Friday at noon. @LeslieStreeter wrote about that and more here: https://t.co/tBi5ktyABI
+
+Time: 2019-08-29 22:27:36+00:00 User: Beth_Lizet
+Thank you @GovRonDeSantis,  You are working hard to make sure all first responders get filled up, hospital generators are full and gas stations are up and running.
+
+Be smart, be safe, and god bless you #dorian https://t.co/biOJPLNp1v
+
+Time: 2019-08-30 01:09:08+00:00 User: PinkyD124
+Dorian tried 2 give me a "hold my beer"
+
+Not 2 B outdone, the universe gave me a "hold my scotch"
+
+My dad called me 4 hrs ago whilst having a stroke. So, here we are in the hospital.
+
+My mind cannot even grasp the shitstorm that's coming...after the real storm of course. I quit. https://t.co/e2YufBfhwA
+
+Time: 2019-08-30 12:51:58+00:00 User: TShaffer919
+@philanthropy_pa Disaster relief is obviously an important one with Dorian inbound. Another that I have always been passionate about is St. Judes children's hospital. Mental health for First Responders (being a Paramedic this hits close to home) and aVeterans has always been overlooked.
+
+Time: 2019-08-30 13:02:01+00:00 User: SeekingAlpha
+#hurricanedorian is strengthening and forecast to hit #Florida this #labordayweekend. How will and other news affect $AAL, $LUV, $THC, $HCA, $UHS, and other #stocks in your portfolio? Find out on #WallStreet Breakfast. https://t.co/wTWlRcBWRx #thestorm #cannabis #oil #hospitals
+
+Time: 2019-08-30 13:06:11+00:00 User: DrMarcSiegel
+Southwest Florida hospitals are ready for Hurricane Dorian #hospitals #HurricaneDorian2019 #Preparedness maintain staff supplies freestanding ERs virtual doctors visits ⁦@Varneyco⁩ 10:15 AM  #Florida #StateofEmergency  https://t.co/pUi3DgLwLJ
+
+Time: 2019-08-30 13:20:02+00:00 User: alt_brainnews
+10 to 12 billion opioid fight Alveda King jokes about China forcing Muslims to hospitals after emergency declaration for Virgin Islands as Dorian.
+
+Time: 2019-08-30 13:37:46+00:00 User: PinkyD124
+14 years ago my dad had a mini stroke and drove himself to the hospital. I didn't even know about it until months later. I've never seen him sick a day in my life.
+
+Today he's in the hospital struggling to find his words. I know he'll be ok, but this fucking sucks. Also, Dorian.
+
+Time: 2019-08-30 13:42:15+00:00 User: sftblkgrl
+y’all pray for my grandpa just found out he hurt his back trying to put shutters up to prepare for hurricane Dorian and gotta go to the hospital.
+
+Time: 2019-08-30 14:37:57+00:00 User: DrMarcSiegel
+RT @DrMarcSiegel: Southwest Florida hospitals are ready for Hurricane Dorian #hospitals #HurricaneDorian2019 #Preparedness maintain staff supplies freestanding ERs virtual doctors visits ⁦@Varneyco⁩ 10:15 AM  #Florida #StateofEmergency  https://t.co/pUi3DgLwLJ
+
+Time: 2019-08-30 15:22:19+00:00 User: _officialging3r
+wish I could join in on all the jokes and fun surrounding Hurricane Dorian but I’m honestly just annoyed about it because I have to ride out the storm in a hospital lol
+
+Time: 2019-08-30 15:43:31+00:00 User: Josieinthe90s
+@KLnoona Yes! I would love that. We’ll be fine, Dorian is like a Kdrama villain. Big and bad at the beginning but being wheeled out of hospital in disgrace at the end.
+
+Time: 2019-08-30 15:52:17+00:00 User: DrMarcSiegel
+How to prepare the elderly, sick for Hurricane Dorian | Fox Business Video #HurricaneDorian2019 #HurricaneDorian #Preparedness #supplies #staffing #hospital #elderly #elderlycare #Blackout evacuations may be necesaary #flooding ⁦@Varneyco⁩  https://t.co/KVJ42y0mCh
+
+Time: 2019-08-30 17:46:24+00:00 User: HealthgradesBiz
+We're all keeping a close eye on Hurricane Dorian, and hospitals throughout FL are working around the clock to be prepared for the storm this weekend. @CNBC has the full story! https://t.co/TirWbPgRjV
+
+Time: 2019-08-30 18:53:21+00:00 User: Healthgrades
+As Florida starts bracing for the arrival of Hurricane Dorian, here's how hospitals throughout the state are preparing for the Category 3 storm. https://t.co/Ad16z6mn46
+
+Time: 2019-08-30 19:00:31+00:00 User: flakebarmer
+Spent the a.m. at HCA’s emergency command center in Nashville. In this bunker, they make sure their 45 hospitals in Florida have meds like antivenom. They coordinate trucking in 2mw generators. And they help decide which patients might need to be flown out ahead of #Dorian. https://t.co/olW7Z6ATbO
+
+Time: 2019-08-30 19:06:01+00:00 User: CleveClinicFL
+DORIAN UPDATE: We have activated our emergency hotlines. For the latest updates regarding clinic, outpatient and hospital facilities and services in Broward &amp; Palm Beach counties, please use these numbers:
+Employee/Caregiver Hotline: 1.800.546.4149
+Patient Hotline: 1.800.546.4138
+
+Time: 2019-08-30 19:14:34+00:00 User: pattavina_chris
+@realDonaldTrump Instead of obsessing on the fact that Comey did NOT commit a crime, let’s talk instead about the kids dying from cancer that you are kicking out of their hospital beds and this country. Also too bad Dorian isn’t headed to Doral, you might have gotten rid of the #BedbugsAtDoral
+
+Time: 2019-08-30 21:05:19+00:00 User: Cancer_CCFla
+RT @CleveClinicFL: DORIAN UPDATE: We have activated our emergency hotlines. For the latest updates regarding clinic, outpatient and hospital facilities and services in Broward &amp; Palm Beach counties, please use these numbers:
+Employee/Caregiver Hotline: 1.800.546.4149
+Patient Hotline: 1.800.546.4138
+
+Time: 2019-08-30 22:13:33+00:00 User: fierymom3
+To first responders and hospital staff. I know the trials and agony of worrying about your own families and homes while trying to take care of your community. You especially have my prayers as Dorian hits your towns. ❤️
+
+Time: 2019-08-30 22:30:03+00:00 User: DebbieC77921966
+RT @fierymom3: To first responders and hospital staff. I know the trials and agony of worrying about your own families and homes while trying to take care of your community. You especially have my prayers as Dorian hits your towns. ❤️
+
+Time: 2019-08-30 23:00:23+00:00 User: Inxsible1still
+RT @PinkyD124: 14 years ago my dad had a mini stroke and drove himself to the hospital. I didn't even know about it until months later. I've never seen him sick a day in my life.
+
+Today he's in the hospital struggling to find his words. I know he'll be ok, but this fucking sucks. Also, Dorian.
+
+Time: 2019-08-30 23:56:02+00:00 User: packbrewfan
+RT @flakebarmer: Spent the a.m. at HCA’s emergency command center in Nashville. In this bunker, they make sure their 45 hospitals in Florida have meds like antivenom. They coordinate trucking in 2mw generators. And they help decide which patients might need to be flown out ahead of #Dorian. https://t.co/olW7Z6ATbO
+
+Time: 2019-08-31 07:35:07+00:00 User: lizzirizzobls
+@rickygervais of Hurricane Dorian, once. Not once! Thanks, Dave Chappelle, wherever you may be! I knew Obama was going to be Prez too, the second I heard him speak, early 2007 when I was stuck in a mental hospital in KS, after my nervous breakdown I suffered, NYC, after working at Trump Tower.
+
+Time: 2019-08-31 10:40:49+00:00 User: bitcoinconnect
+Hurricane Dorian: Central Florida hospitals making sure they’re ready, and free-standing ERs, too #hurricane #dorian #trump #tornado #flooding #poweroutage #florida #hurricanedorian KEEP IN CONTACT DURING HURRICANE https://t.co/ATuzEzv2qt
+
+Time: 2019-08-31 10:41:51+00:00 User: daniceraj
+RT @bitcoinconnect: Hurricane Dorian: Central Florida hospitals making sure they’re ready, and free-standing ERs, too #hurricane #dorian #trump #tornado #flooding #poweroutage #florida #hurricanedorian KEEP IN CONTACT DURING HURRICANE https://t.co/ATuzEzv2qt
+
+Time: 2019-08-31 10:49:54+00:00 User: espress82
+@PattyArquette My husband and I were just talking about that because of the loss of the elderly &amp; people in icu at hospitals during #HurricaneKatrina #Dorian Bless them all 💜
+
+Time: 2019-08-31 13:00:00+00:00 User: PHEgov
+Is your hospital or healthcare facility ready to help people with disabilities, children &amp; those with access or functional needs when  #Dorian strikes? Find out what you need to do to get ready to help the people who rely on you when seconds count ➡️ https://t.co/uvfcDM6hwl https://t.co/kJe8JH51i1
+
+Time: 2019-08-31 13:04:13+00:00 User: bitcoinconnect
+Hurricane Dorian: Central Florida hospitals making sure they’re ready, and free-standing ERs, too #hurricane #dorian #trump #tornado #flooding #poweroutage #florida #hurricanedorian GET READY! https://t.co/CHEQ3YUrN0
+
+Time: 2019-08-31 13:23:11+00:00 User: flacks
+RT @PHEgov: Is your hospital or healthcare facility ready to help people with disabilities, children &amp; those with access or functional needs when  #Dorian strikes? Find out what you need to do to get ready to help the people who rely on you when seconds count ➡️ https://t.co/uvfcDM6hwl https://t.co/kJe8JH51i1
+
+Time: 2019-08-31 14:18:47+00:00 User: Americares
+@NWSKeyWest ^Thanks for the update! #GetReadyNow🚨 for Dorian and the next emergency, flood, 🔥 or emergency. On this day last year Irma became #HurricaneIrma and would have 7 landfalls! We continue to #Partner4Health with 92 health clinics, hospitals and health centers throughout FL state.
+
+Time: 2019-08-31 14:19:10+00:00 User: Americares
+RT @Americares: @NWSKeyWest ^Thanks for the update! #GetReadyNow🚨 for Dorian and the next emergency, flood, 🔥 or emergency. On this day last year Irma became #HurricaneIrma and would have 7 landfalls! We continue to #Partner4Health with 92 health clinics, hospitals and health centers throughout FL state.
+
+Time: 2019-08-31 16:58:17+00:00 User: holiday624
+@blakeshelton @SmithworksVodka Happy happy Labor Day, I’m in the hospital, and we having Dorian knocking on our door. Fun times in south florida🌴🌴🌴🌴🌴🌴🌴🌴🌴🌴🥥🥥🥥🧜🏼‍♀️
+
+Time: 2019-08-31 17:46:59+00:00 User: MononaBayGroup
+On our way back to #Miami and there is plenty of gas in Cape Coral outside of Ft. Myers. Thank you to the people of #Florida for your hospitality. We love you and you are in our thoughts and prayers with #Dorian. https://t.co/tyWNs2VyFA
+
+Time: 2019-08-31 17:49:05+00:00 User: uncdanward
+Dorian—&gt;please curve out to sea. I really, really do not want to be trapped at the hospital for days on end #flooding
+
+Time: 2019-08-31 18:17:38+00:00 User: MirikitaniKatt
+I'm feeling like shit which leaves no room to be worried about the #Dorian . I had a fever last night and my head is still killing me. If this keeps up, I'm going to the hospital. I'm not sure it's just dehydration anymore, might be something else.
+
+Time: 2019-08-31 19:00:24+00:00 User: ezyteacher
+Yesterday we sat on the floor in a circle for about 40 minutes during reading block &amp; talked about hurricane Dorian.
+Some of the 2nd graders' concerns- What about homeless people? Ppl in hospital? First responders? Animals/wildlife?
+These little people have such big hearts 🤗 https://t.co/SF5W4IgsHT
+
+Time: 2019-09-01 00:35:51+00:00 User: mwilliford
+All of the dogs have somewhere to go if hurricane Dorian heads this way and I have to hunker down at the hospital. Thankful for friends I can count on, just hope it doesn't happen. I hate being away from them.
+
+Time: 2019-09-01 07:55:31+00:00 User: barkway
+@Anna_M_Anders We had been in Dorian's path initially tho thankfully now will not suffer the worst effects for which we are grateful being both hub and I had just been released from separate hospitals.
+
+Time: 2019-09-01 07:55:43+00:00 User: ElmerThoughts
+Mass shootings, hospital visits, car breakdowns, hurricane effing Dorian, and friends suffering from loss...eff off, August! You stirred up some nasty shit.
+
+Time: 2019-09-01 10:22:48+00:00 User: capeislsweather
+While I await more data on my mom's health condition at the hospital. Hurricane Dorian's track is FAR from being settled this week. It could be a "Cape storm" Cape Canaveral to Cape Hatteres to Cape Cod or a Frying Pan Shoals to Nantucket Shoals storm. I am not sold on out to sea
+
+Time: 2019-09-01 11:42:04+00:00 User: daniceraj
+RT @DrMarcSiegel: How to prepare the elderly, sick for Hurricane Dorian | Fox Business Video #HurricaneDorian2019 #HurricaneDorian #Preparedness #supplies #staffing #hospital #elderly #elderlycare #Blackout evacuations may be necesaary #flooding ⁦@Varneyco⁩  https://t.co/KVJ42y0mCh
+
+Time: 2019-09-01 13:14:48+00:00 User: Hectordvector
+T-1hr to hospital lockdown for #Dorian. #GrandBahama is ready for you, Dorian. Bring it on! Cat 5? But you know, you can still change your path. Go North, enjoy the Atlantic Ocean! It is all yours to take. Dear Lord, take care of my family while I am  in the hospital, on duty. https://t.co/odFioA2SAf https://t.co/M6moEOEUwL
+
+Time: 2019-09-01 14:08:54+00:00 User: bruunv
+If another puppy named Dorian walks in this hospital I’m kicking them out
+
+Time: 2019-09-01 15:12:02+00:00 User: altNOAA
+As far as hurricane structure is concerned, Dorian is about as perfect as it gets. Symmetrical buzzsaw of terror. Be prepared for bad news in The Bahamas. I hope we're planning a proper response, if asked. We have a floating hospital, it may be needed. https://t.co/3w5nWEJXeJ
+
+Time: 2019-09-01 17:20:39+00:00 User: ecgwatford
+@christifulli88 @curbtobed @bigGermanMike @ashleyliebig @texprehospital @amerelman @DownToFifer @DitchDoc14 Also: go ahead and piss right off Dorian.
+
+Time: 2019-09-01 17:20:57+00:00 User: fdcpr
+RT @ecgwatford: @christifulli88 @curbtobed @bigGermanMike @ashleyliebig @texprehospital @amerelman @DownToFifer @DitchDoc14 Also: go ahead and piss right off Dorian.
+
+Time: 2019-09-01 17:50:53+00:00 User: Shakti74572
+RT @altNOAA: As far as hurricane structure is concerned, Dorian is about as perfect as it gets. Symmetrical buzzsaw of terror. Be prepared for bad news in The Bahamas. I hope we're planning a proper response, if asked. We have a floating hospital, it may be needed. https://t.co/3w5nWEJXeJ
+
+Time: 2019-09-01 20:03:37+00:00 User: hallaaron81
+Watching @weatherchannel coverage of #Dorian . I fully expect to see @CoachHughFreeze rolling by in his hospital bed any minute now. @LibertyFootball #attentionwhore
+
+Time: 2019-09-01 20:41:07+00:00 User: Trans4merMusic
+Been in hospital over 12 days safe like a Zombie 🧟‍♂️ I’m not worried bout hurricane Dorian 🌪it ain’t gone gon b shit ass always from here lol
+
+Time: 2019-09-01 20:41:20+00:00 User: BaptistHealthSF
+Hurricane #Dorian update: A Hurricane Watch and Tropical Storm watches and warnings have been issued for parts of South Florida. For the latest information on all Baptist Health hospitals and outpatient centers including openings and closings, visit https://t.co/BXrlu2frSL https://t.co/Xk5515FC9a
+
+Time: 2019-09-01 20:42:01+00:00 User: Leelilacs
+Still in the Smokies, publisher is out of the hospital recovering at the house. Keep good thoughts for the people in Hurricane Dorian's wake. The monster is a big ol'cat 5! https://t.co/eefuBEUCIY
+
+Time: 2019-09-01 21:04:07+00:00 User: FLHospitalAssn
+RT @BaptistHealthSF: Hurricane #Dorian update: A Hurricane Watch and Tropical Storm watches and warnings have been issued for parts of South Florida. For the latest information on all Baptist Health hospitals and outpatient centers including openings and closings, visit https://t.co/BXrlu2frSL https://t.co/Xk5515FC9a
+
+Time: 2019-09-01 23:45:47+00:00 User: severflow
+@pnut Yeah. I said that after getting out of the hospital 3 days ago now I'm in the path of Hurricane Dorian. Wish I was anywhere BUT home.
+
+Time: 2019-09-02 00:09:16+00:00 User: HendryRegional
+Emergency Department to Remain Open
+
+#HRMC Emergency Department will be fully staffed before, during and after Hurricane #Dorian. On Monday, September 2, 2019 at 11:00am the hospital will activate to a code brown for the impending severe weather. https://t.co/eU5vjJjUWE
+
+Time: 2019-09-02 00:45:49+00:00 User: moira
+Shout out to the hospital staff who are making plans that involve hundreds of people to evacuate NICU babies tomorrow. Standing by to get chills and cry when I see your video. #Dorian
+
+Time: 2019-09-02 00:47:36+00:00 User: BOBSarmymom
+RT @moira: Shout out to the hospital staff who are making plans that involve hundreds of people to evacuate NICU babies tomorrow. Standing by to get chills and cry when I see your video. #Dorian
+
+Time: 2019-09-02 01:07:30+00:00 User: oldivory
+I'd like one of Trump's advisors to walk up to him
+right now
+and tell him that storm Dorian is all in his head,
+
+there is nothing about it on TV
+
+and that he is being taken,
+immediately,
+
+to a psychiatric hospital
+for a checkup.
+
+Time: 2019-09-02 02:00:52+00:00 User: halerinspt
+When you get called in at 4 am tomorrow because the hospital is locking down for Dorian...guess my hurricane wine will have to wait ⛈
+
+Time: 2019-09-02 04:19:24+00:00 User: InaJaki
+Prayers for many friends and families in SOFLA and everyone on the path of Dorian. Truly hope it dies out before landfall. My friends posting that their hospital will be on lock down soon. Scary and quite ominous 🙏🏻🙏🏻🙏🏻 https://t.co/adb5hheAG8
+
+Time: 2019-09-02 06:29:55+00:00 User: Allison56281101
+RT @oldivory: I'd like one of Trump's advisors to walk up to him
+right now
+and tell him that storm Dorian is all in his head,
+
+there is nothing about it on TV
+
+and that he is being taken,
+immediately,
+
+to a psychiatric hospital
+for a checkup.
+
+Time: 2019-09-02 06:34:23+00:00 User: KingKarelys
+I’m the midst of hurricane Dorian and a current hospital visit I see this and i Instantly asked my southern bf if “corn really grow like that” https://t.co/jiNKkxeGqW
+
+Time: 2019-09-02 06:41:50+00:00 User: Hectordvector
+14th hour of duty... 6hrs since hospital lockdown; no patient since; can't sleep; Dorian doing the smashing outside; it is only Monday...Dorian enjoying the warm waters of Bahamas but this is without consequences.
+
+Time: 2019-09-02 11:47:40+00:00 User: Hectordvector
+On my 22nd hour of shift...12th hour since the hospital lockdown.... not looking better, and it is not even halfway tru #Dorian go away
+
+Time: 2019-09-02 12:14:39+00:00 User: EarthUncutTV
+I’m hoping once #Dorian moves north it will be easy to clear runways at Marsh Harbour, Treasure Cay &amp; Freeport to get aid flights in ASAP - local population will be in desperate need of clean water, medicine &amp; food. Badly injured will need to be flown out to function hospitals
+
+Time: 2019-09-02 12:26:58+00:00 User: _itsjustgigi
+Day 1 of lockdown in the hospital for hurricane Dorian
+I’m sane and I don’t want to strangle anyone yet
+
+Time: 2019-09-02 12:48:00+00:00 User: FLHospitalAssn
+RT @HendryRegional: Emergency Department to Remain Open
+
+#HRMC Emergency Department will be fully staffed before, during and after Hurricane #Dorian. On Monday, September 2, 2019 at 11:00am the hospital will activate to a code brown for the impending severe weather. https://t.co/eU5vjJjUWE
+
+Time: 2019-09-02 13:01:54+00:00 User: NBG_Machiavelli
+RT @_itsjustgigi: Day 1 of lockdown in the hospital for hurricane Dorian
+I’m sane and I don’t want to strangle anyone yet
+
+Time: 2019-09-02 13:03:39+00:00 User: smolwillow
+My soon to be sisters-in-law is directly in the path of Dorian and can’t evacuate because she’s a nurse in the nicu so they’ve got everyone staying at the hospital in an emptied out room with mattresses on the floor.
+
+Time: 2019-09-02 14:27:33+00:00 User: SeanPrevil
+DeSantis says it's a mix of hospitals evacuating. Jared Moskowitz, dir. of emergency management, says some hospitals are moving out their most critical patients. #Dorian #HurricaneDorian
+
+Time: 2019-09-02 15:10:05+00:00 User: RPolitowicz
+RT @LifeSouth: 𝙋𝙡𝙚𝙖𝙨𝙚 𝙍𝙏. IF you are able to travel safely to do so, please give blood. We want to ensure area hospitals affected by Dorian have the blood they need.
+
+Click to find the nearest drive or donor center. https://t.co/ji7evpVXEU
+
+Time: 2019-09-02 16:58:25+00:00 User: CelesteCajmonee
+God Truly looked out for me 2 years ago with Irma and now this year with Dorian I’m not scheduled to work so I will not be at the hospital again this year !!!!
+
+Time: 2019-09-02 17:11:30+00:00 User: PigTrailNation
+Morris: Dorian Gerald strained an artery in his neck in the second quarter. He will be on blood thinners and will be out the rest of the year. We hope he will be released from the hospital today or tomorrow.
+
+Time: 2019-09-02 17:11:48+00:00 User: TreyBiddy
+Dorian Gerald - strained artery in neck, will be on blood thinner. Out for the year, according to Chad Morris. Should be out of hospital in a day or two. #wps Get well soon Dorian!
+
+Time: 2019-09-02 19:56:42+00:00 User: robinr501
+RT @PigTrailNation: Morris: Dorian Gerald strained an artery in his neck in the second quarter. He will be on blood thinners and will be out the rest of the year. We hope he will be released from the hospital today or tomorrow.
+
+Time: 2019-09-02 20:04:47+00:00 User: iRaceTheReaper8
+@VBI Finishing the final preps for Dorian and packing for a few days in the hospital for Dorian. Our emergency response teams should be activated by the morning, I wont be home until about Thursday.
+
+Time: 2019-09-02 20:13:58+00:00 User: thinkpraybot
+RT @chs_hospitality: Our thoughts and prayers go out to all those in the path of Hurricane Dorian, as well as with the first responders and emergency officials doing their best to keep us safe. We will keep you updated on Lowcountry openings and closings in the coming days! https://t.co/XFMvGt3H6b
+
+Time: 2019-09-02 20:28:28+00:00 User: CherylS13478522
+@GregNorberg Visiting a sick neighbor that just got out of hospital-taking dinner to others neighbors-baking cookies for several. 🙏 for all regarding 🌪 Dorian
+
+Time: 2019-09-02 20:46:39+00:00 User: IflyMacon
+We’ve been welcoming #aircraft to #Macon that moved north because of Hurricane Dorian. 🌧 How many can you count?
+
+#welcome #georgia #airport #countingairplanes #rampspace #aviationweather #hurricane #hurricanedorian #storm #aviation #flying  #evacuate #southernhospitality https://t.co/ejv6DDkms0
+
+Time: 2019-09-02 20:59:16+00:00 User: CNN
+At least seven Florida hospitals are under full evacuation orders, and at least one other hospital is partially evacuating ahead of Hurricane Dorian, the Florida governor's office said https://t.co/xP5lopRKca
+
+Time: 2019-09-02 21:40:59+00:00 User: esereno
+RT @EarthUncutTV: I’m hoping once #Dorian moves north it will be easy to clear runways at Marsh Harbour, Treasure Cay &amp; Freeport to get aid flights in ASAP - local population will be in desperate need of clean water, medicine &amp; food. Badly injured will need to be flown out to function hospitals
+
+Time: 2019-09-02 21:55:05+00:00 User: taylor_panzer
+I just found out that I’m team A for the hurricane, so catch me at the hospital for like a WEEK if Dorian keeps this shit up 😩
+
+Time: 2019-09-02 22:49:56+00:00 User: Jacquiecharles
+Air ambulances are touching down in Abaco to take the injured to the hospital in Nassau. #Bahamas #Dorian
+
+Time: 2019-09-02 22:53:49+00:00 User: bapsecurity
+RT @IflyMacon: We’ve been welcoming #aircraft to #Macon that moved north because of Hurricane Dorian. 🌧 How many can you count?
+
+#welcome #georgia #airport #countingairplanes #rampspace #aviationweather #hurricane #hurricanedorian #storm #aviation #flying  #evacuate #southernhospitality https://t.co/ejv6DDkms0
+
+Time: 2019-09-02 23:16:02+00:00 User: 12Ravenwolf
+RT @CNN: At least seven Florida hospitals are under full evacuation orders, and at least one other hospital is partially evacuating ahead of Hurricane Dorian, the Florida governor's office said https://t.co/xP5lopRKca
+
+Time: 2019-09-02 23:23:34+00:00 User: GinaMangusStAug
+Not impressed by @HiltonHotels They’re still planning to put my 80 year old parents /evacuees on the street Wednesday because Dorian slowed &amp; their reservation ran out. My husband is deployed and I’m activated at my hospital on the coast. We can’t come get them. https://t.co/vBZxG5P66T
+
+Time: 2019-09-02 23:30:05+00:00 User: charlesrjong
+RT @Jacquiecharles: Air ambulances are touching down in Abaco to take the injured to the hospital in Nassau. #Bahamas #Dorian
+
+Time: 2019-09-02 23:34:26+00:00 User: zclew1s
+@CheeseHawg Just to make you feel even better about your comments yesterday... While you were tweeting Dorian, he was in the hospital. They found out he has a strained artery in his neck, a very scary situation. He’s done for the year.
+
+Time: 2019-09-02 23:44:06+00:00 User: FindLostPets_
+RT @TreyBiddy: Dorian Gerald - strained artery in neck, will be on blood thinner. Out for the year, according to Chad Morris. Should be out of hospital in a day or two. #wps Get well soon Dorian!
+
+Time: 2019-09-02 23:54:52+00:00 User: cybraryman1
+Driving home after hospital started lockdown in preparation for Dorian saw this. Our Hurricane page https://t.co/XFtcIOKayu Please stay safe! #edchat https://t.co/3EgCuNaWx3
+
+Time: 2019-09-03 00:43:30+00:00 User: MayoClinic
+#MayoClinicFL is closed Tues 9/3 and Wed 9/4, reopening for normal business Thur 9/5. Patients will be contacted directly by staff about rescheduling. The hospital and emergency department remain open.
+
+#HurricaneDorian hotline for patients: 904-953-7100.
+
+https://t.co/Aw3sMztl93 https://t.co/gjZC6F5RGN
+
+Time: 2019-09-03 01:30:28+00:00 User: Abovethelies1
+@realDonaldTrump @jonkarl @ABCWorldNews Golfing while people people are dying👎🏽talking about crowd sizes while people are in the hospital👎🏽talking about the Apprentice while Dorian is killing people👎🏽doing photo ops while people are preparing for funerals👎🏽so SAD so SICK! The new @GOP #TrumpIsADisgrace
+
+Time: 2019-09-03 01:44:17+00:00 User: WLRN
+Here what hospitals in Palm Beach will remain open, but offer limited services on Tuesday: https://t.co/6bPxQzfKN7
+
+Time: 2019-09-03 01:45:42+00:00 User: DcsrTeam
+RT @WLRN: Here what hospitals in Palm Beach will remain open, but offer limited services on Tuesday: https://t.co/6bPxQzfKN7
+
+Time: 2019-09-03 02:13:53+00:00 User: tityana_
+What ever Dorian is going to do he needs to hurry up😩. I’m about to go crazy in this hospital 😭
+
+Time: 2019-09-03 02:59:20+00:00 User: LivePrayer
+2 shootings, one you didn't hear about...Bibles back in VA hospitals..Hurr. Dorian..LP 20th ann...Monday 9/2/19 https://t.co/HLNOYCmzMU
+
+Time: 2019-09-03 03:01:54+00:00 User: tkpleslie
+It is beyond horrifying to see the devastation wrought by Dorian. I can’t help but think of all the hospitalized, the Moms in labor or about to be, the animals and pets, the elderly &amp; those w/special needs , the small children. My prayers are with all of them.
+
+Time: 2019-09-03 03:51:11+00:00 User: Jessica54384377
+Prayers abound go out. One for @KevinHart4real who is recovering in the hospital. The rest are to those about to deal with hurricane Dorian as well as its victims. #hope #caring
+
+Time: 2019-09-03 04:45:06+00:00 User: Mariatherese444
+When you hear about hurricane deaths, it's the most vunerable - sick, elderly, immobile - because outages and flooding cause loss of resources needed for survival. Thinking of my brother in Daytona Beach. He got out, but almost had to spend tonight in the hospital there. #dorian https://t.co/RRm02HuxND
+
+Time: 2019-09-03 07:27:17+00:00 User: Anna__Dorian
+RT @JessicaOOTC: My lifesaving prescription medications are made in the EU but since they're a controlled substance I'm only given a monthly supply and thus can't stockpile.
+
+How am I meant to #GetReadyForBrexit... without just moving into a hospital? https://t.co/BptfiFcICC
+
+Time: 2019-09-03 08:07:03+00:00 User: parris_jnaii
+RT @tityana_: What ever Dorian is going to do he needs to hurry up😩. I’m about to go crazy in this hospital 😭
+
+Time: 2019-09-03 10:00:59+00:00 User: _itsjustgigi
+Day2 of lockdown at the hospital for hurricane Dorian
+
+I ate too much cheese
+
+Time: 2019-09-03 10:14:59+00:00 User: Fox6Clare
+The emergency room at the hospital in Freeport is flooded.  Just heartbreaking video and images coming out of the Bahamas in the aftermath of #Dorian.  @WBRCnews https://t.co/wEkLinDcSE
+
+Time: 2019-09-03 10:24:07+00:00 User: RonaldPetrovich
+RT @MayoClinic: #MayoClinicFL is closed Tues 9/3 and Wed 9/4, reopening for normal business Thur 9/5. Patients will be contacted directly by staff about rescheduling. The hospital and emergency department remain open.
+
+#HurricaneDorian hotline for patients: 904-953-7100.
+
+https://t.co/Aw3sMztl93 https://t.co/gjZC6F5RGN
+
+Time: 2019-09-03 11:18:34+00:00 User: bibletoten
+RT @Fox6Clare: The emergency room at the hospital in Freeport is flooded.  Just heartbreaking video and images coming out of the Bahamas in the aftermath of #Dorian.  @WBRCnews https://t.co/wEkLinDcSE
+
+Time: 2019-09-03 11:35:26+00:00 User: _Sound_Around_
+Florida coast braces for Hurricane Dorian
+With Hurricane Dorian essentially stalling to the east, parts of the Florida coasts are bracing for what Dorian could bring. Schools are closed throughout Palm Beach County, the West Palm airport is closed, and several hospitals in t…
+
+Time: 2019-09-03 11:40:36+00:00 User: bitcoinconnect
+How do hospitals prepare for hurricanes? #hurricane #dorian #trump #tornado #flooding #poweroutage #florida #hurricanedorian GET READY! https://t.co/1JjmjX5T1m https://t.co/HMvAOWNx9h
+
+Time: 2019-09-03 11:41:52+00:00 User: daniceraj
+RT @bitcoinconnect: How do hospitals prepare for hurricanes? #hurricane #dorian #trump #tornado #flooding #poweroutage #florida #hurricanedorian GET READY! https://t.co/1JjmjX5T1m https://t.co/HMvAOWNx9h
+
+Time: 2019-09-03 12:10:41+00:00 User: PaigeHWYFF4
+Dorian isn’t getting the usual southern hospitality...
+I do like the Nemo reference 😂
+
+“keep away Dorian 2019, no Nemo here” https://t.co/64KwcXbqHu
+
+Time: 2019-09-03 12:25:46+00:00 User: JripleyWYFF4
+RT @PaigeHWYFF4: Dorian isn’t getting the usual southern hospitality...
+I do like the Nemo reference 😂
+
+“keep away Dorian 2019, no Nemo here” https://t.co/64KwcXbqHu
+
+Time: 2019-09-03 12:32:57+00:00 User: bitcoinconnect
+How do hospitals prepare for hurricanes? #hurricane #dorian #trump #tornado #flooding #poweroutage #florida #hurricanedorian GET READY! https://t.co/CHEQ3YUrN0
+
+Time: 2019-09-03 14:16:31+00:00 User: marywidmerlux
+#HurricaneDorian forces some Palm Beach County hospitals to close, but 11 shelters, including a pet-friendly and special needs shelter, remain open.
+
+https://t.co/ajZ6YzZvLm
+
+#palmbeach #palmbeachcounty #southflorida
+
+Time: 2019-09-03 14:58:55+00:00 User: 10NewsWTSP
+The @Bahamaspress shared this video out of Rand Memorial Hospital where the flooded halls from #Dorian forced patients to evacuate the hospital. https://t.co/MgX11kmsBq
+
+Time: 2019-09-03 15:49:38+00:00 User: APPeddocs
+As healthcare facilities across the southeastern seaboard activate their emergency preparedness plans in the wake of Hurricane Dorian, emergency physician and regional medical director Dr. Bill Cauthen shares how 10 emergency department and hospital medicine programs in
+(1 of 2)
+
+Time: 2019-09-03 16:50:12+00:00 User: KXLNews
+Hurricane Dorian pounded away at the islands Tuesday in a watery onslaught that devastated thousands of homes, trapped people in attics and crippled hospitals. At least five deaths were reported, with the full extent of the damage far from clear. https://t.co/ywIiNDaACB
+
+Time: 2019-09-03 17:18:19+00:00 User: orthopsia
+RT @10NewsWTSP: The @Bahamaspress shared this video out of Rand Memorial Hospital where the flooded halls from #Dorian forced patients to evacuate the hospital. https://t.co/MgX11kmsBq
+
+Time: 2019-09-03 17:53:48+00:00 User: tvforrvparks
+Alabama RV park offers reduced rates to Hurricane Dorian evacuees https://t.co/f0RuNWt49G #outdoors #hospitality #rvparks #campgrounds https://t.co/KQH0Tm1Rtw
+
+Time: 2019-09-03 18:11:39+00:00 User: JustJSammy
+The Hospital Association is out! https://t.co/mFce6hMghA @JustJSammy/HNews Stories via @GNYHA @MAHealthHosp @ahahospitals #hurricanedorian #dorian
+
+Time: 2019-09-03 19:16:05+00:00 User: PHEgov
+As #Dorian moves toward the east coast, many area hospitals &amp; #healthcare facilities are evacuating.  Check out these resources to help your facility safely evacuate patients – from infants in the NICU to older adults in long-term care facilities. https://t.co/gIIsuquND9 https://t.co/an0QrlOMXS
+
+Time: 2019-09-03 19:37:34+00:00 User: PHEgov
+If your hospital or #healthcare facility is in the path of #Dorian, make sure you are ready to protect patient privacy as you provide medical care.  Find out what information can be released, to whom, and under what circumstances under HIPAA. https://t.co/kzjfxUzPoZ https://t.co/CG0IQUX0w1
+
+Time: 2019-09-03 19:59:25+00:00 User: DisasterCh1ck
+RT @PHEgov: If your hospital or #healthcare facility is in the path of #Dorian, make sure you are ready to protect patient privacy as you provide medical care.  Find out what information can be released, to whom, and under what circumstances under HIPAA. https://t.co/kzjfxUzPoZ https://t.co/CG0IQUX0w1
+
+Time: 2019-09-03 20:18:38+00:00 User: SeemaCMS
+.@CMSgov is offering support for Georgia and South Carolina, and working to ensure hospitals and other facilities can continue operations and provide access to #healthcare, despite #HurricaneDorian. https://t.co/TLXDBQuYZ8
+
+Time: 2019-09-03 20:22:10+00:00 User: HHSRegion2
+RT @SeemaCMS: .@CMSgov is offering support for Georgia and South Carolina, and working to ensure hospitals and other facilities can continue operations and provide access to #healthcare, despite #HurricaneDorian. https://t.co/TLXDBQuYZ8
+
+Time: 2019-09-03 20:30:03+00:00 User: EnquireSolution
+72 FL nursing homes and assisted living facilities and 7 hospitals have been evacuated in preparation for Hurricane Dorian. If your community might be impacted, contact Enquire to learn more about emergency phone support! https://t.co/XI1yVKiqj7 https://t.co/vz2ubTGscc
+
+Time: 2019-09-03 20:37:17+00:00 User: spacetimeltd
+Minnis said Monday that downtown Grand Bahama "is under three feet of water, including the ground floor of its hospital and the prime minister's office."- https://t.co/2ur7DZkCV7 via @commondreams
+
+Time: 2019-09-03 21:28:30+00:00 User: ahahealthforum
+RT @ahahospitals: .@HHSGov has declared public health emergencies in #Florida, #Georgia and #SouthCarolina as #HurricaneDorian continues to move closer to the Southeast coast. https://t.co/7L0I4XWoDq #Dorian
+
+Time: 2019-09-03 21:30:00+00:00 User: AJEnglish
+#HurricaneDorian has devastated thousands of homes, crippled hospitals and left people trapped.
+
+The full scope of the most powerful storm ever to hit the Bahamas is still unknown https://t.co/o5rSjHngWJ https://t.co/WgeLSPQuSa
+
+Time: 2019-09-03 21:42:00+00:00 User: Cat5235469712
+@realDonaldTrump I hope you have dispatched the USNS Comfort to Hurricane Dorian's impact zone.
+
+This fully functioning floating hospital would help in the recovery effort of the island nations that were devastated by this brutal storm.
+
+Time: 2019-09-03 22:14:53+00:00 User: HHSRegion8
+RT @PHEgov: As #Dorian moves toward the east coast, many area hospitals &amp; #healthcare facilities are evacuating.  Check out these resources to help your facility safely evacuate patients – from infants in the NICU to older adults in long-term care facilities. https://t.co/gIIsuquND9 https://t.co/an0QrlOMXS
+
+Time: 2019-09-03 23:21:25+00:00 User: TBriningstool
+RT @APPeddocs: As healthcare facilities across the southeastern seaboard activate their emergency preparedness plans in the wake of Hurricane Dorian, emergency physician and regional medical director Dr. Bill Cauthen shares how 10 emergency department and hospital medicine programs in
+(1 of 2)
+
+Time: 2019-09-03 23:42:33+00:00 User: Nunez200
+RT @AJEnglish: #HurricaneDorian has devastated thousands of homes, crippled hospitals and left people trapped.
+
+The full scope of the most powerful storm ever to hit the Bahamas is still unknown https://t.co/o5rSjHngWJ https://t.co/WgeLSPQuSa
+
+Time: 2019-09-03 23:57:01+00:00 User: telestraster
+when dorian passes i'm gonna call the vet hospital and get an estimate on an examination for him, cause there's stuff we just aren't qualified to handle. my mom told me to ask them about an apprenticeship djxkfkgntnt
+
+Time: 2019-09-04 00:42:39+00:00 User: DaveJordanWITN
+Vidant Health says all of its hospitals, including on the Outer Banks,  will remain open this week throughout Hurricane Dorian. https://t.co/koGuLAo5As
+
+Time: 2019-09-04 04:42:57+00:00 User: SloppyG71
+Idk what’s more uncomfortable, sleeping on a blow up mattress that doesn’t have enough air in it on the hospital floor or the fact that Dorian isn’t gonna directly hit Florida and that I did this lockdown bs for nothing.
+
+Time: 2019-09-04 06:01:53+00:00 User: ttillmN
+#WakeUpAmerica Due to health concerns  #cigarette smoking was banned on buses, in hospitals, restaurants, schools, airplanes, offices, movie theaters, etc, and sales in certain vending machines.  #GunViolence is like a cancer...spreading throughout #America #NRAOwnsTheGOP #Dorian https://t.co/8mowgwVdz9
+
+Time: 2019-09-04 07:09:29+00:00 User: IamFazeen
+AJEnglish: #HurricaneDorian has devastated thousands of homes, crippled hospitals and left people trapped.
+
+The full scope of the most powerful storm ever to hit the Bahamas is still unknown https://t.co/170NqIDjg5 https://t.co/dTLYaRasX7
+
+Time: 2019-09-04 13:43:45+00:00 User: MedicalQuack
+Run to the portal:)  Geez..RT @SeemaCMS: .@CMSgov is offering support for Georgia and South Carolina, and working to ensure hospitals and other facilities can continue operations and provide access to #healthcare, despite #HurricaneDorian. https://t.co/3gAiocuMOB
+
+Time: 2019-09-04 13:55:47+00:00 User: mmalover46
+@pulte Just got out of hospital, got hit with Florence, about to be hit with Dorian, and was told yesterday regardless I have 2 months to find a new place to live. Disabled single mom to 13yr old boy with transgender bff pls giveaway!
+
+Time: 2019-09-04 14:01:03+00:00 User: Fr_Jason
+Quick stop at the Southbank after an emergency call to the hospital. Tide not to bad so far. A little windy, but know that we haven’t seen the worst of Dorian yet... @ Southbank Riverwalk https://t.co/U7j6Y47JQn
+
+Time: 2019-09-04 14:03:36+00:00 User: Cyndi94571032
+@tropicalpicks Cannot imagine the chaos it must have been at a hospital. The stress of a near hurricane probably sent people up the walls. Thankful the furbabies did well. Nobody likes to have their routine upset. Me included 😂! Are you getting settled? Dorian seems headed to midcoast😟Bless🙏
+
+Time: 2019-09-04 15:03:34+00:00 User: ZionTechGroup
+Hurricane Dorian: ‘Apocalyptic’ devastation in Bahamas as deadly storm bears down on US: Hurricane Dorian left “apocalyptic” devastation in its wake as it swept across the Bahamas.  Thousands of homes were destroyed or damaged, hospitals crippled and a… https://t.co/SUjerKbEvD https://t.co/LLN162O9mm
+
+Time: 2019-09-04 15:05:32+00:00 User: LiberallyHappy
+@altNOAA @ltgrusselhonore I'm not sure what medical supplies they have but they do have helicopters to do rescues and transport to the hospitals located on the southern islands. There are a few aid groups there with medicine as well.
+
+https://t.co/JbsRy5NLY3
+
+Time: 2019-09-04 15:30:42+00:00 User: TakeTwoBlog
+Serious question: if airports and hospitals are out of commission, are cruise ships able to get into #Freeport after #Dorian? With supplies for food, showers, and temporary living would this be a viable solution? #NCL #RoyalCaribbean #DisneyCruiseLine
+
+Time: 2019-09-04 15:40:45+00:00 User: USRealityCheck
+Hurricane Dorian: ‘Apocalyptic’ devastation in Bahamas as deadly storm bears down on US Hurricane Dorian left “apocalyptic” devastation in its wake as it swept across the Bahamas.Thousands of homes were destroyed or damaged, hospitals crippled an... https://t.co/tBrKOl1eJ8 #USRC https://t.co/ZnjLwGLjBq
+
+Time: 2019-09-04 16:09:58+00:00 User: tal7291
+#DORIAN #BAHAMAS
+USDOD needs to send the #hospital_ship_MERCY to help with medical care and a ship that can make and bottle water.
+USN is taking vessels out to sea from Hampton Rds and Little Creek - send some of them to BAHAMAS to help with critical infrastructure.
+
+Time: 2019-09-04 16:12:06+00:00 User: PaulMiller1313
+RT @tal7291: #DORIAN #BAHAMAS
+USDOD needs to send the #hospital_ship_MERCY to help with medical care and a ship that can make and bottle water.
+USN is taking vessels out to sea from Hampton Rds and Little Creek - send some of them to BAHAMAS to help with critical infrastructure.
+
+Time: 2019-09-04 17:00:36+00:00 User: StericycleComms
+Hurricane Dorian is the latest natural disaster to threaten U.S. hospitals. Hospitals have struggled with maintaining EHR connectivity after power outages or sharing patient medical histories if a patient is displaced from their usual hospital.
+https://t.co/yyytNqPStn
+
+Time: 2019-09-04 19:26:00+00:00 User: CostaNoticiasTV
+Cifra preliminar de daños causados por el huracán Dorian: 7 personas muertas, no menos 60 mil familias y 15 mil viviendas devastadas. Aeropuertos y hospitales sumergidos en el agua https://t.co/joaXLyUsWu @lacoutu @fernando_bum @carosle @Iadossa @Gilbert_Olarte @cecollm @mcatica https://t.co/HP7FfMGjiY
+
+Time: 2019-09-04 19:47:57+00:00 User: CleveClinicFL
+#CleveClinicFL is leading a #Dorian relief effort with CCF volunteer teams plus collection of dry goods &amp; non-perishable foods. Collection sites: #Weston, @CCIndianRiver &amp; @ccmartinhealth hospitals (North, South &amp; Tradition). Please join us. Support #BahamasStrong. https://t.co/S5d8XJSvXV
+
+Time: 2019-09-04 22:02:43+00:00 User: TriangleVRH
+Do you know the location of the nearest veterinary emergency hospital to you? With Dorian blowing closer to the Carolinas, it’s not a bad idea to figure it out. Our hospitals are open 24/7 in two locations: Durham, NC and Holly Springs, NC #TVRHEmergency https://t.co/fRc1QMwcOn
+
+Time: 2019-09-04 22:05:48+00:00 User: Darrenbagleyhea
+Winds picked up Brats are  on the grill. Cold beer 🍺and tracking Dorian. Stay safe y’all.
+#dorian #usa #southernliving #evsavannah #savannahga #southernhospitality #hostesscity https://t.co/sqmG3DF1Rk
+
+Time: 2019-09-04 22:18:06+00:00 User: kathrynpapp
+RT @TriangleVRH: Do you know the location of the nearest veterinary emergency hospital to you? With Dorian blowing closer to the Carolinas, it’s not a bad idea to figure it out. Our hospitals are open 24/7 in two locations: Durham, NC and Holly Springs, NC #TVRHEmergency https://t.co/fRc1QMwcOn
+
+Time: 2019-09-04 23:03:09+00:00 User: CostaNoticiasTV
+RT @CostaNoticiasTV: Cifra preliminar de daños causados por el huracán Dorian: 7 personas muertas, no menos 60 mil familias y 15 mil viviendas devastadas. Aeropuertos y hospitales sumergidos en el agua https://t.co/joaXLyUsWu @lacoutu @fernando_bum @carosle @Iadossa @Gilbert_Olarte @cecollm @mcatica https://t.co/HP7FfMGjiY
+
+Time: 2019-09-04 23:22:19+00:00 User: 2DollarSteak_
+Mike's currently locked in at the hospital. He'll be looking for some good #CheapMeatTweet opportunities.
+
+Keep an eye out.
+
+#Dorian #WrestlingCommunity #WWE #NXT
+
+Time: 2019-09-04 23:59:29+00:00 User: fpotenti
+RT @CleveClinicFL: #CleveClinicFL is leading a #Dorian relief effort with CCF volunteer teams plus collection of dry goods &amp; non-perishable foods. Collection sites: #Weston, @CCIndianRiver &amp; @ccmartinhealth hospitals (North, South &amp; Tradition). Please join us. Support #BahamasStrong. https://t.co/S5d8XJSvXV
+
+Time: 2019-09-05 01:44:00+00:00 User: USATODAY
+Entire communities were flattened and roads washed out while hospitals and airports were swamped by several feet of water due to Hurricane Dorian. https://t.co/3dRA53VdfJ https://t.co/IFkUqMwojA
+
+Time: 2019-09-05 02:20:53+00:00 User: zosozepx
+Hurricane Dorian has arrived and I am sitting in the hospital room with my mom while we hear the crazy wind outside, rain is pouring.. everyone who?s been/being/will be effected PLEASE be safe!! Love, thoughts, prayers, vibes, and everything positive goes out to everyone in this!
+
+Time: 2019-09-05 02:54:34+00:00 User: honeyyharrison
+RT @zosozepx: Hurricane Dorian has arrived and I am sitting in the hospital room with my mom while we hear the crazy wind outside, rain is pouring.. everyone who?s been/being/will be effected PLEASE be safe!! Love, thoughts, prayers, vibes, and everything positive goes out to everyone in this!
+
+Time: 2019-09-05 03:00:00+00:00 User: WJBF
+Southstar Emergency Services have transported patients to hospitals and people who need to seek shelter for Hurricane Dorian. We got an inside look at the process. https://t.co/RitlKuMu3O
+
+Time: 2019-09-05 03:26:24+00:00 User: azcentral
+Entire communities were flattened and roads washed out while hospitals and airports were swamped by several feet of water due to Hurricane Dorian. https://t.co/k9WrRyunzZ
+
+Time: 2019-09-05 08:36:29+00:00 User: 4RGNest
+RT @AJEnglish: #HurricaneDorian has devastated thousands of homes, crippled hospitals and left people trapped.
+
+The full scope of the most powerful storm ever to hit the Bahamas is still unknown https://t.co/o5rSjHngWJ https://t.co/WgeLSPQuSa
+
+Time: 2019-09-05 08:38:23+00:00 User: Monicadisaster1
+RT @USATODAY: Entire communities were flattened and roads washed out while hospitals and airports were swamped by several feet of water due to Hurricane Dorian. https://t.co/3dRA53VdfJ https://t.co/IFkUqMwojA
+
+Time: 2019-09-05 09:40:02+00:00 User: JillianFertig
+On The Morning Show: An auto-pedestrian crash that sent a teen to the hospital is under investigation in Bridge City. &amp; Southeast Texans with a criminal history have the opportunity for a second chance. Plus, Dana has the latest on Hurricane Dorian. https://t.co/IuAv4WCl5J
+
+Time: 2019-09-05 10:08:33+00:00 User: KayPatriot
+RT @azcentral: Entire communities were flattened and roads washed out while hospitals and airports were swamped by several feet of water due to Hurricane Dorian. https://t.co/k9WrRyunzZ
+
+Time: 2019-09-05 10:51:19+00:00 User: Jim33852817
+RT @PHEgov: As #Dorian moves toward the east coast, many area hospitals &amp; #healthcare facilities are evacuating.  Check out these resources to help your facility safely evacuate patients ? from infants in the NICU to older adults in long-term care facilities. https://t.co/gIIsuquND9 https://t.co/an0QrlOMXS
+
+Time: 2019-09-05 11:33:53+00:00 User: DebraHange1
+RT @tal7291: #DORIAN #BAHAMAS
+USDOD needs to send the #hospital_ship_MERCY to help with medical care and a ship that can make and bottle water.
+USN is taking vessels out to sea from Hampton Rds and Little Creek - send some of them to BAHAMAS to help with critical infrastructure.
+
+Time: 2019-09-05 11:38:24+00:00 User: dbarrett424
+RT @CleveClinicFL: #CleveClinicFL is leading a #Dorian relief effort with CCF volunteer teams plus collection of dry goods &amp; non-perishable foods. Collection sites: #Weston, @CCIndianRiver &amp; @ccmartinhealth hospitals (North, South &amp; Tradition). Please join us. Support #BahamasStrong. https://t.co/S5d8XJSvXV
+
+Time: 2019-09-05 11:53:24+00:00 User: equisyezeta
+RT @CostaNoticiasTV: Cifra preliminar de daos causados por el huracn Dorian: 7 personas muertas, no menos 60 mil familias y 15 mil viviendas devastadas. Aeropuertos y hospitales sumergidos en el agua https://t.co/joaXLyUsWu @lacoutu @fernando_bum @carosle @Iadossa @Gilbert_Olarte @cecollm @mcatica https://t.co/HP7FfMGjiY
+
+Time: 2019-09-05 11:57:42+00:00 User: PathByteChic
+RT @LifeSouth: Please consider donating blood as Dorian continues on its path. Area hospitals' need will be high and supply interrupted during the storm. Click to find the nearest donor center or blood drive: https://t.co/ji7evpVXEU ??: CNN https://t.co/PIrYPX2eT6
+
+Time: 2019-09-05 12:29:42+00:00 User: bftcountysc
+Welcome to the Lowcountry Hurricane Dorian. Southerners pride themselves on, and are known for, that famous southern hospitality, but to Dorian we say this: don't let the door hit you on the way out. https://t.co/D119xPXX6m
+
+Time: 2019-09-05 12:40:14+00:00 User: vavmark
+RT @TriangleVRH: Do you know the location of the nearest veterinary emergency hospital to you? With Dorian blowing closer to the Carolinas, it?s not a bad idea to figure it out. Our hospitals are open 24/7 in two locations: Durham, NC and Holly Springs, NC #TVRHEmergency https://t.co/fRc1QMwcOn
+
+Time: 2019-09-05 12:53:43+00:00 User: PappyJ12444573
+@stevelukather hello Steve just getting over Dorian. I enjoy the concert in Melbourne FL. It was awesome. I had just got out of the hospital and was in a wheel chair but it was just a pleasure being there. I wasn't going to miss it for the world. Hope you come to Florida again.
+
+Time: 2019-09-05 12:54:57+00:00 User: REGINALDEUGENE8
+RT @JillianFertig: On The Morning Show: An auto-pedestrian crash that sent a teen to the hospital is under investigation in Bridge City. &amp; Southeast Texans with a criminal history have the opportunity for a second chance. Plus, Dana has the latest on Hurricane Dorian. https://t.co/IuAv4WCl5J
+
+Time: 2019-09-05 13:01:09+00:00 User: enci83
+RT @bftcountysc: Welcome to the Lowcountry Hurricane Dorian. Southerners pride themselves on, and are known for, that famous southern hospitality, but to Dorian we say this: don't let the door hit you on the way out. https://t.co/D119xPXX6m
+
+Time: 2019-09-05 13:39:57+00:00 User: ThinkClean
+Southeast states batten down the hatches for Hurricane Dorian and facility managers are preparing their buildings for the threat of high winds and flooding. Learn what hospitals do to prepare for events like this. https://t.co/93sdOTrpNK     #HurricaneDorian #Dorian2019 https://t.co/1UgvrlkrmC
+
+Time: 2019-09-05 13:54:03+00:00 User: FranRuchalski
+With all of the craziness and chaos of the last week with the coming of Dorian, I got to cover two stories about new life. This young lady went into labor early Tuesday morning but was sent home from the hospital? https://t.co/cScYVIhZVb
+
+Time: 2019-09-05 14:24:00+00:00 User: HilaryLovelace
+Open call for funny memes to distract me from thinking about my little sister who is working at the hospital on the SC coast through Dorian
+
+Time: 2019-09-05 15:10:43+00:00 User: AndreBauerSC
+The city has done an amazing job preparing for #dorian Little damage/flooding so far. Cleaning out drains in the area to prepare for hide tide at 2pm. Family is evacuated and safe near a hospital, but wife says that we will not be having a #dorian ???? #Charlestonsc #resilient https://t.co/4aoQ0SwoAk
+
+Time: 2019-09-05 15:19:54+00:00 User: brdwaybuff
+Battening down the hatches at OBX hospital while we wait for #Dorian.  Might be a good time for a #OneTreeHill marathon!! @HilarieBurton   Please be safe everyone!!
+
+Time: 2019-09-05 18:35:49+00:00 User: hellinhighheels
+@StephenHillBOI @ragneskjold Have a fab time! My friend is up the coast in Charleston (also nice place). So is Savannah heading south. :) Nothing but warm memories of Carolina hospitality (we lived in NC). Hopefully Dorian just dumped some rain but not too bad otherwise.
+
+Time: 2019-09-05 18:56:02+00:00 User: TRICARE
+Some military hospitals and clinics in Hurricane #Dorian's path may be closed or operating under limited conditions. Please contact your facility to verify operating hours if you have any scheduled appointments or procedures. https://t.co/QhLcpwx5Dj
+
+Time: 2019-09-05 18:58:30+00:00 User: STFUImTweetn0_o
+RT @TRICARE: Some military hospitals and clinics in Hurricane #Dorian's path may be closed or operating under limited conditions. Please contact your facility to verify operating hours if you have any scheduled appointments or procedures. https://t.co/QhLcpwx5Dj
+
+Time: 2019-09-05 19:32:13+00:00 User: TheGuardianis
+@chrislhayes I think the press need to ask him about hurricane Dorian every chance they get. Kind of like a Groundhog Day nightmare. Hopefully he?s present himself to a mental hospital pronto.
+
+Time: 2019-09-05 20:00:19+00:00 User: UFHealthJax
+While many of our staff hunkered down at our main hospital campuses, a few members of our fantastic team volunteered at a local shelter during Hurricane Dorian. Thanks to the team who provided great service and support at Oceanway Middle School throughout the storm! https://t.co/nlYJuV2AUX
+
+Time: 2019-09-05 20:43:44+00:00 User: LanaLakke
+that scene in mission impossible fallout but wolf blitzer is congratulating trump on winning the alabama presidency while he?s lying in a hospital bed still tweeting  about hurricane #dorian https://t.co/wKIRI09uiD
+
+Time: 2019-09-05 20:43:57+00:00 User: Acyn
+RT @LanaLakke: that scene in mission impossible fallout but wolf blitzer is congratulating trump on winning the alabama presidency while he?s lying in a hospital bed still tweeting  about hurricane #dorian https://t.co/wKIRI09uiD
+
+Time: 2019-09-05 21:22:50+00:00 User: PrimeStatePAs
+A massive rescue effort is underway after Hurricane Dorian spent more than a day inching over the Bahamas, killing at least twenty as entire communities were flattened, roads washed out and hospitals and airports swamped by several feet of water. https://t.co/E8cmZagPk6
+
+Time: 2019-09-05 23:02:12+00:00 User: PeeDee_WxSC
+So I don?t have pictures of my journey but I?ll throw a video together . A quick thread as I wait for my wife to get out of work, at McLeod hospital in Florence.
+
+#Dorian is one of those storms that hit some places hard and some hardly at all. That?s the way these go 1/3 https://t.co/ShaKaAGzYK
+
+Time: 2019-09-05 23:06:41+00:00 User: DrIArun
+Hurricane Dorian
+
+Thank you allowing us to care for your pet during hurricane Dorian. Our hospital maintains a fully implemented emergency-power back-up system/ hurricane-ready generators. We want to thank our staff for braving hurricane and helping our pet patients. https://t.co/Jd6RDcA4ql
+
+Time: 2019-09-05 23:07:35+00:00 User: Tbaldwin510B
+RT @PeeDee_WxSC: So I don?t have pictures of my journey but I?ll throw a video together . A quick thread as I wait for my wife to get out of work, at McLeod hospital in Florence.
+
+#Dorian is one of those storms that hit some places hard and some hardly at all. That?s the way these go 1/3 https://t.co/ShaKaAGzYK
+
+Time: 2019-09-05 23:32:35+00:00 User: kristyj10
+RT @UFHealthJax: While many of our staff hunkered down at our main hospital campuses, a few members of our fantastic team volunteered at a local shelter during Hurricane Dorian. Thanks to the team who provided great service and support at Oceanway Middle School throughout the storm! https://t.co/nlYJuV2AUX
+
+Time: 2019-09-05 23:53:38+00:00 User: parrotheadtige1
+@JenCarfagno Jen.....I have been in Hilton Head for work the last 8 days at a hospital.  I am soooooo tired of hearing Dorian.  Dont you have powers to tell it to get the hell out of here?  #hurricanePTSD #sickofit
+
+Time: 2019-09-06 00:36:25+00:00 User: DellySammich
+I been thinking for days about how if Dorian hit Nassau and Freeport which hospital we coulda run to?
+
+Time: 2019-09-06 00:40:31+00:00 User: sciencoach
+Dorian is covering almost our entire state...enough southern hospitality. Dorian needs to MOVE OUT! https://t.co/mH4Xt9kVpL
+
+Time: 2019-09-06 01:13:26+00:00 User: zoomarang
+#Maddow That @USNavy hospital ship sitting in I believe Annapolis MD should be fully staffed and dispatched to the Bahamas. I believe it’s the #USSComfort . This is what it was built for #Dorian
+
+Time: 2019-09-06 01:52:00+00:00 User: LifeSouth
+Please donate O Negative blood if you are able so that we can maintain supply for area hospitals affected by Dorian. All types are needed, but 0- is needed most critically.
+Thanks for helping us get the word out, @WJCTJax! https://t.co/zqZECGMlps
+
+Time: 2019-09-06 02:31:29+00:00 User: rebellegrrl
+RT @zoomarang: #Maddow That @USNavy hospital ship sitting in I believe Annapolis MD should be fully staffed and dispatched to the Bahamas. I believe it’s the #USSComfort . This is what it was built for #Dorian
+
+Time: 2019-09-06 02:37:49+00:00 User: ToriGossett3
+@jamescharles My family for sure. We were out out of work for a week with Hurricane Dorian and that is really going to put us behind. I have a 2 year old and my father was just put into the hospital with pneumonia, COPD, and emphysema. No idea when he will be released.
+
+Time: 2019-09-06 03:17:37+00:00 User: Hectordvector
+I dont want to sleep since then...as long as I hear the sound of #Dorian, I stayed awake...only fatigue will put me to sleep until we got an "all clear" from NEMA that we can leave the hospital from lock down.
+
+Time: 2019-09-06 05:57:48+00:00 User: leigh_tumlin
+@yashar Sure, be sad. Those fleeing Dorian needed the hotels, shelter, hospitality and all that would come with a warm, Southern welcome to those in need. So sad they probably thought they could not find refuge in my State b/c @potus is an idiot.
+
+Time: 2019-09-06 11:15:01+00:00 User: LifeSouth
+Please donate O- blood if you are able so that we can maintain supply for area hospitals affected by Dorian. All types are needed, but 0- is needed most critically.
+Thanks for helping us get the word out, @WJCTJax! https://t.co/zqZECGMlps
+
+Time: 2019-09-06 14:36:15+00:00 User: LanaLakke
+RT @LanaLakke: that scene in mission impossible fallout but wolf blitzer is congratulating trump on winning the alabama presidency while he’s lying in a hospital bed still tweeting  about hurricane #dorian https://t.co/wKIRI09uiD
+
+Time: 2019-09-06 15:16:19+00:00 User: CarolesGwriter
+😭🙄He’s still talking about Alabama! This is insane. Dorian is in Carolinas atm
+
+pls medicate @realDonaldTrump
+
+If your great grandfather did this shit, you’d check them in to a hospital ASAP. Mental illness is dangerous ... if untreated.
+
+#Alabama #MAGA2020 #sharpiegate https://t.co/vMbiggZDro
+
+Time: 2019-09-06 15:30:00+00:00 User: dbnewsjournal
+As Hurricane Dorian made its way up the Florida coast, Kay McCloud wasn’t thinking about boarding up windows, losing power or even flooding. She was worried about making it to the hospital to give birth to her son before the storm hit. https://t.co/tnIEBCsW7Z
+
+Time: 2019-09-06 15:30:18+00:00 User: DRI_Intl
+As the Bahamas goes into #emergencyresponse mode after #HurricaneDorian, immediate concerns are a lack of hospitals, while potential disease outbreaks could be another crisis down the road: https://t.co/LUJVeLw6Em
+
+Time: 2019-09-06 15:30:52+00:00 User: TonyWDonovan
+RT @TRICARE: Some military hospitals and clinics in Hurricane #Dorian's path may be closed or operating under limited conditions. Please contact your facility to verify operating hours if you have any scheduled appointments or procedures. https://t.co/QhLcpwx5Dj
+
+Time: 2019-09-06 16:05:05+00:00 User: AikenRegionalMC
+Aiken Regional welcomed 13 patients and four nurses from a coastal hospital earlier this week in response to evacuations ahead of #HurricaneDorian. ARMC is fully operational and we will continue to assist our neighbors. Read more via @aikenstandard at https://t.co/nbq1LxXysw. https://t.co/arGXHnVNhp
+
+Time: 2019-09-06 16:10:30+00:00 User: eliyoyo
+#SharpieTrump @potus can  you draw Bahamas, Puerto Rico  South Carolina, Alabama houses, airports, hospitals destroyed by Dorian, work your magic, so that your drawings become real instead of visions between your ears? Asking for dead people in those areas #HurricaineDorian
+
+Time: 2019-09-06 16:25:16+00:00 User: SCHospitals
+RT @AikenRegionalMC: Aiken Regional welcomed 13 patients and four nurses from a coastal hospital earlier this week in response to evacuations ahead of #HurricaneDorian. ARMC is fully operational and we will continue to assist our neighbors. Read more via @aikenstandard at https://t.co/nbq1LxXysw. https://t.co/arGXHnVNhp
+
+Time: 2019-09-06 16:38:10+00:00 User: Nocera5
+So after #Hurricane #Dorian hit last night it was slim pickings for places to eat this morning here in #NC. I wasn’t feeling that southern hospitality after seeing these signs posted in the only restaurant I could find. 😳 So I ask who has my back? 🤔 Lol @ Bayside Restaurant https://t.co/tq4jIEjNjT
+
+Time: 2019-09-06 17:51:39+00:00 User: mwkpak
+If anyone else in the world had made these claims, lies,they would have been committed to a psychiatric hospital for evaluation and treatment. This is not normal behavior of an adult, 5 year old yes. Time to 25/45
+A timeline of Trump's Alabama map meltdown https://t.co/25o34VPe8g
+
+Time: 2019-09-06 18:26:22+00:00 User: trustedhealth
+With Hurricane Dorian making its way across the southeast, many hospitals and healthcare facilities have been affected. Nurses have a vital role to play locally and even nationally. See how you can help aid hurricane efforts as an RN!      🌧👩‍⚕️👨‍⚕️👉 https://t.co/Wsz2IbNpnT #Nurses
+
+Time: 2019-09-06 18:45:59+00:00 User: john_winger
+I don't know if tRump is still whining about getting caught with a sharpie, but don't we have ships like the floating hospital dispatched to Puerto Rico? This should already be happening. If we had  a REAL leader....
+ https://t.co/h8ZkmiNrVI
+
+Time: 2019-09-06 20:05:01+00:00 User: editorialcrj
+RT @DRI_Intl: As the Bahamas goes into #emergencyresponse mode after #HurricaneDorian, immediate concerns are a lack of hospitals, while potential disease outbreaks could be another crisis down the road: https://t.co/LUJVeLw6Em
+
+Time: 2019-09-06 20:39:07+00:00 User: CindyKub
+RT @CleveClinicFL: #CleveClinicFL is leading a #Dorian relief effort with CCF volunteer teams plus collection of dry goods &amp; non-perishable foods. Collection sites: #Weston, @CCIndianRiver &amp; @ccmartinhealth hospitals (North, South &amp; Tradition). Please join us. Support #BahamasStrong. https://t.co/S5d8XJSvXV
+
+Time: 2019-09-06 22:13:51+00:00 User: 90909faleh11
+RT @USATODAY: Entire communities were flattened and roads washed out while hospitals and airports were swamped by several feet of water due to Hurricane Dorian. https://t.co/3dRA53VdfJ https://t.co/IFkUqMwojA
+
+Time: 2019-09-07 01:05:22+00:00 User: miachi_chan
+Oof it's been so long since I've been on Twitter. I need to catch up on iKON news!! Hurricane Dorian has finally passed Charleston,SC and I'm so happy I'm out of the hospital after living there for a few days (I'm a nurse)! 😫
+
+Time: 2019-09-07 01:06:42+00:00 User: crwaxlax
+@KenCalvert What are you and the Trump administration doing to help the Bahamas Ken? You've planned ahead and sent the hospital ship Comfort I assume. What else?
+
+Miami is helping. So is Chef Andre. How 'bout the Trump administration? Anything Ken?
+
+Ken? .....Ken?
+
+https://t.co/WPB4sxIkAe
+
+Time: 2019-09-07 02:31:07+00:00 User: ThisJustInHogan
+Like 40 seconds after the power goes out at my house my dad has every single generator on earth running and my house flicks back on like a hospital so Dorian can fucking blow me tbh
+
+Time: 2019-09-07 11:40:29+00:00 User: dave94704999
+HELLO CONGRESS! When are you going to wake up and put this LUNATIC in a hospital. Do we have to go another week of listening to this PEA BRAIN rant about another issue he has with the TRUTH? Dorian should have been enough PLEASE Congress put this IDIOT in a Hospital! https://t.co/MOZhj3YquH
+
+Time: 2019-09-07 12:53:46+00:00 User: PathByteChic
+RT @LifeSouth: Please donate O- blood if you are able so that we can maintain supply for area hospitals affected by Dorian. All types are needed, but 0- is needed most critically.
+Thanks for helping us get the word out, @WJCTJax! https://t.co/zqZECGMlps
+
+Time: 2019-09-07 14:38:27+00:00 User: SarahSue224
+This week was definitely different. The park was gearing up for Dorian. It miss us.
+Sending out prayers to everyone who has been affected by this terrible storm.
+This week, Danny ended up in the hospital. Yeah, not what either of us were expecting.
+
+Time: 2019-09-07 18:22:03+00:00 User: Indedotcom
+Traffic was light and parking places were plentiful downtown on Friday as the Savannah business and hospitality community slowly came online following a week of uncertainty and closures as Hurricane Dorian made its way up the coast. https://t.co/xkoTIyftj9
+
+Time: 2019-09-07 18:23:03+00:00 User: CantonRepdotcom
+Traffic was light and parking places were plentiful downtown on Friday as the Savannah business and hospitality community slowly came online following a week of uncertainty and closures as Hurricane Dorian made its way up the coast. https://t.co/Lhgpr4i9B8
+
+Time: 2019-09-07 20:33:35+00:00 User: lightgraphs
+RT @tal7291: #DORIAN #BAHAMAS
+USDOD needs to send the #hospital_ship_MERCY to help with medical care and a ship that can make and bottle water.
+USN is taking vessels out to sea from Hampton Rds and Little Creek - send some of them to BAHAMAS to help with critical infrastructure.
+
+Time: 2019-09-07 22:38:53+00:00 User: NEhorseman
+@shossy2 @LilaRoyBean1 @chefjoseandres This man used his own funds &amp; actions to help out ppl in Bahamas,Trump played golf &amp; argued he was right that Alabama was in the path of Dorian! Trump could have been ordering a hospital ship to move in in wake of Dorian but he played golf.
+
+Time: 2019-09-08 10:56:16+00:00 User: LynetteAgueda1
+RT @NEhorseman: @shossy2 @LilaRoyBean1 @chefjoseandres This man used his own funds &amp; actions to help out ppl in Bahamas,Trump played golf &amp; argued he was right that Alabama was in the path of Dorian! Trump could have been ordering a hospital ship to move in in wake of Dorian but he played golf.
+
+Time: 2019-09-08 18:55:34+00:00 User: Juliea712
+“The death toll is expected to rise, and we know so, because we have not been able to reach some places that are still impassible even now." - hospital official in Nassau. @talanez is reporting for South Florida @SunSentinel in the Bahamas https://t.co/XfHJgU6EGK
+
+Time: 2019-09-08 19:23:22+00:00 User: NatashaPace
+According to the Nova Scotia Health Authority, hurricane force winds caused power outages at many hospitals and service locations, with many currently operating on emergency generator power. #Dorian
+
+Time: 2019-09-08 20:53:16+00:00 User: Jonesls
+RT @Southern_Living: "Hero" hospital staffers move babies to safety in "mini ICU on wheels" ahead of Hurricane Dorian: https://t.co/PjzBq80Zrk https://t.co/8AT2f2sZGW
+
+Time: 2019-09-08 21:05:06+00:00 User: doreenhemlock
+RT @Juliea712: “The death toll is expected to rise, and we know so, because we have not been able to reach some places that are still impassible even now." - hospital official in Nassau. @talanez is reporting for South Florida @SunSentinel in the Bahamas https://t.co/XfHJgU6EGK
+
+Time: 2019-09-09 13:45:27+00:00 User: calternativo
+“The truth of the matter is our hospital, we need to move our patients out of it. We need to literally move everybody out.” https://t.co/eLZyyeWYgI
+
+Time: 2019-09-09 13:58:08+00:00 User: kushflavrdjager
+Check out this article from Florida Today:
+
+Whoa, baby! Is Hurricane Dorian behind 14 births in Brevard hospitals?
+
+https://t.co/XjqRJTBbOf
+
+Time: 2019-09-09 19:47:43+00:00 User: TheDizzyLizzieB
+Been stuck in the house with nothing but Vienna Sausages and Nabs, or is that just me? 🍴
+
+Restaurant Week is still in full swing through Sunday, so take advantage of some local specials and deals. @chs_hospitality
+
+Info here: https://t.co/039wHH6vbx @chasscene #chsfood https://t.co/pCSjcKAqZH
+
+Time: 2019-09-09 20:19:18+00:00 User: dwaniej
+I can’t believe people don’t feel some type of way about these celebrities who come here and mingle with our people and bask in our hospitality and beauty for clout and can’t donate or publicised what happened during Dorian.
+
+Time: 2019-09-09 20:20:01+00:00 User: TrillThil
+RT @dwaniej: I can’t believe people don’t feel some type of way about these celebrities who come here and mingle with our people and bask in our hospitality and beauty for clout and can’t donate or publicised what happened during Dorian.
+
+Time: 2019-09-09 20:42:20+00:00 User: chs_hospitality
+RT @TheDizzyLizzieB: Been stuck in the house with nothing but Vienna Sausages and Nabs, or is that just me? 🍴
+
+Restaurant Week is still in full swing through Sunday, so take advantage of some local specials and deals. @chs_hospitality
+
+Info here: https://t.co/039wHH6vbx @chasscene #chsfood https://t.co/pCSjcKAqZH
+
+Time: 2019-09-09 22:46:00+00:00 User: leoncampbell215
+Dorian demolished the Bahamas, I say rebuild it up the right way! The resource which is plentiful down there is sun. “SOLAR PANELED POWERED EVERYTHING! Cars, homes, schools, hospitals, etc...
+
+Time: 2019-09-10 11:12:06+00:00 User: BadProductionz
+@DrShepherd2013 @ForbesScience Several media outlets report that over
+➡70,000 people are #homeless after Hurricane #Dorian in the Bahamas.
+
+➡Hospital #Freeport
+Grand Bahama flooded w/ SEWAGE-contaminated WATER,
+&amp; so therefore it needs to be ➡Temporarily replaced w/ a field hospital.”
+
+#Medical
+
+Time: 2019-09-10 12:02:00+00:00 User: BadProductionz
+RT @BadProductionz: @DrShepherd2013 @ForbesScience Several media outlets report that over
+➡70,000 people are #homeless after Hurricane #Dorian in the Bahamas.
+
+➡Hospital #Freeport
+Grand Bahama flooded w/ SEWAGE-contaminated WATER,
+&amp; so therefore it needs to be ➡Temporarily replaced w/ a field hospital.”
+
+#Medical
+
+Time: 2019-09-10 12:59:48+00:00 User: JK_Kelley
+Calling all the kind-hearted, willing, prayer warriors out there. Just last wk as my extended family relocated due to hurricane Dorian, an abrupt hospital trip revealed gut wrenching news for their 4-yr old son Andre. My nephew needs your help.🙏🏽
+ https://t.co/b8WJ5SgI4c https://t.co/AyLRD3cFOj
+
+Time: 2019-09-10 15:51:54+00:00 User: AndrewScheer
+I’m thankful for the efforts of the men and women in the @CanadianForces, first responders, and volunteers as Atlantic Canada recovers from Hurricane Dorian. The famous East Coast hospitality is also on full display as friends and neighbours help each other out. #ProudCanadian
+
+Time: 2019-09-10 16:30:47+00:00 User: coachmikelray
+#Repost @jk_kelley with get_repost
+・・・
+Calling on all of you kind-hearted, willing, prayer warriors out there. Just last week as my extended family was forced to relocate due to hurricane Dorian....an abrupt hospital… https://t.co/MEwuXDUWYX
+
+Time: 2019-09-10 22:01:53+00:00 User: PappyJ12444573
+@wunderground hurricane dorian was very stressful for myself and my sweetheart job, sickness, money, where to go and finance. I had just been out of hospital. Very stressful.
+
+Time: 2019-09-10 23:10:46+00:00 User: mattdawg3232
+RT @JK_Kelley: Calling all the kind-hearted, willing, prayer warriors out there. Just last wk as my extended family relocated due to hurricane Dorian, an abrupt hospital trip revealed gut wrenching news for their 4-yr old son Andre. My nephew needs your help.🙏🏽
+ https://t.co/b8WJ5SgI4c https://t.co/AyLRD3cFOj
+
+Time: 2019-09-10 23:57:10+00:00 User: doug_spark
+RT @AndrewScheer: I’m thankful for the efforts of the men and women in the @CanadianForces, first responders, and volunteers as Atlantic Canada recovers from Hurricane Dorian. The famous East Coast hospitality is also on full display as friends and neighbours help each other out. #ProudCanadian
+
+Time: 2019-09-11 15:57:37+00:00 User: RealPremShady
+My god mom talking about escaping the destruction of hurricane Dorian: Yuh know the hospital and everything flood-out. And the water didn’t stay, it began receding. The yard was an ocean but... I dunno know I had to lock up the house and come[to New Providence Island]. https://t.co/QNyxtAmRi6
+
+Time: 2019-09-11 16:23:12+00:00 User: FleetwoodMak
+RT @RealPremShady: My god mom talking about escaping the destruction of hurricane Dorian: Yuh know the hospital and everything flood-out. And the water didn’t stay, it began receding. The yard was an ocean but... I dunno know I had to lock up the house and come[to New Providence Island]. https://t.co/QNyxtAmRi6
+
+Time: 2019-09-11 20:20:01+00:00 User: tvforrvparks
+ARVC Offers Disaster Relief To Parks Impacted By Dorian - https://t.co/ZB7KJJvd6V #outdoorhospitality #arvc #rvparks #campgrounds https://t.co/KE7ZE4d5FA
+
+Time: 2019-09-11 22:35:47+00:00 User: GeekFreakBoutiq
+@realDonaldTrump On 9/11/01 Canada took rerouted flights and hosted thousands of Americans during operation Yellow Ribbin. 225 flights landed at 17 different airports in Canada, and Americans were treated with hospitality and caring. On 9/10/20, America turned away victims of Hurricane Dorian.
