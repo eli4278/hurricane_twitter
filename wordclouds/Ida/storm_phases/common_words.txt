@@ -1,0 +1,15 @@
+Storm Ida Dataset:
+Pre-hurricane:
+ [('Tropical Storm', 1.0), ('Hurricane Ida', 0.9356953055801595), ('Storm Ida', 0.7805580159433126), ('storm surge', 0.5432683790965456), ('Gulf Coast', 0.475022143489814), ('expected', 0.4269707705934455), ('major hurricane', 0.2534100974313552), ('dangerous storm', 0.2211691762621789), ('New Orleans', 0.22019486271036315), ('FEMA', 0.18073516386182462)]
+During-hurricane:
+ [('Hurricane Ida', 1.0), ('storm surge', 0.41294676662123275), ('tropical storm', 0.3133045585339997), ('Storm Ida', 0.2704831137361805), ('Category storm', 0.2585661820384674), ('New Orlean', 0.19306565197637438), ('New York', 0.14994131455399062), ('life threatening', 0.1296569741026806), ('threatening storm', 0.11574284416174466), ('made landfall', 0.11485309707708617)]
+Post-hurricane:
+ [('Hurricane Ida', 1.0), ('Tropical Storm', 0.6214214214214214), ('storm damage', 0.619019019019019), ('Storm Ida', 0.6074074074074074), ('New York', 0.4344344344344344), ('New Jersey', 0.40580580580580583), ('help', 0.22682682682682684), ('survey storm', 0.21401401401401401), ('WhiteHouse', 0.2088088088088088), ('meet', 0.2046046046046046)]
+
+Combined Dataset:
+Pre-hurricane:
+ [('Hurricane Ida', 1.0), ('Tropical Storm', 0.33124369680100046), ('New Orlean', 0.2765500826979709), ('Gulf Coast', 0.27484771471217073), ('Storm Ida', 0.22355076848602204), ('major hurricane', 0.21997660252531365), ('expected', 0.19365847755052645), ('storm surge', 0.1869700270281173), ('Category hurricane', 0.16824397918431563), ('Louisiana', 0.13764976400822945)]
+During-hurricane:
+ [('Hurricane Ida', 1.0), ('New Orlean', 0.23499726456632766), ('Stay safe', 0.10975798580327129), ('Ida s', 0.10293717907398975), ('day', 0.10021092086052041), ('New York', 0.09833798032093462), ('family', 0.09286367217920588), ('category hurricane', 0.09247944983948682), ('s path', 0.0922867652034486), ('storm surge', 0.08920495795919445)]
+Post-hurricane:
+ [('Hurricane Ida', 1.0), ('charging', 0.5049775225028668), ('water', 0.275169215469389), ('case', 0.26250469338258425), ('health care', 0.2547720284545833), ('price gouging', 0.25284393614970113), ('insulin', 0.2522959520209452), ('DeaconBlues0', 0.25222491704129163), ('vial', 0.25222491704129163), ('hurricane considered', 0.2522147691870554)]

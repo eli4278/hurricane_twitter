@@ -1,0 +1,58 @@
+Hurricane Ida retweets per day (storm ida dataset)
+8-26
+tweets: 5602 retweets: 3975
+percentage of retweets: 70.95680114244912
+8-27
+tweets: 29361 retweets: 22377
+percentage of retweets: 76.21334423214469
+8-28
+tweets: 27084 retweets: 22227
+percentage of retweets: 82.06690296854231
+8-29
+tweets: 86796 retweets: 75039
+percentage of retweets: 86.45444490529518
+8-30
+tweets: 51807 retweets: 42457
+percentage of retweets: 81.95224583550485
+8-31
+tweets: 14013 retweets: 9931
+percentage of retweets: 70.86990651537857
+9-01
+tweets: 7519 retweets: 5055
+percentage of retweets: 67.22968479851043
+9-02
+tweets: 36030 retweets: 29215
+percentage of retweets: 81.08520677213433
+9-03
+tweets: 16219 retweets: 12584
+percentage of retweets: 77.58801405758679
+9-04
+tweets: 6530 retweets: 4965
+percentage of retweets: 76.03369065849922
+9-05
+tweets: 4755 retweets: 3736
+percentage of retweets: 78.56992639327024
+9-06
+tweets: 3556 retweets: 2689
+percentage of retweets: 75.61867266591676
+9-07
+tweets: 4687 retweets: 3522
+percentage of retweets: 75.14401536163857
+9-08
+tweets: 3068 retweets: 2077
+percentage of retweets: 67.69882659713168
+9-09
+tweets: 1459 retweets: 937
+percentage of retweets: 64.22206991089787
+9-10
+tweets: 1139 retweets: 754
+percentage of retweets: 66.19841966637401
+9-11
+tweets: 532 retweets: 388
+percentage of retweets: 72.93233082706767
+9-12
+tweets: 1268 retweets: 1115
+percentage of retweets: 87.93375394321767
+9-13
+tweets: 1266 retweets: 881
+percentage of retweets: 69.58925750394944
